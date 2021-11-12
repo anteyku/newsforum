@@ -1,0 +1,1395 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20090914 at Tue Oct 13 16:14:27 2020
+ By www-data
+ugng
+</metadata>
+<defs>
+<font id="PetscopWide" horiz-adv-x="896" >
+  <font-face 
+    font-family="PetscopWide"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="768"
+    descent="-256"
+    x-height="320"
+    cap-height="704"
+    bbox="-64 -192 896 896"
+    underline-thickness="50"
+    underline-position="-752"
+    unicode-range="U+0020-U+FF1F"
+  />
+<missing-glyph horiz-adv-x="832" 
+d="M384 0v64h-64v64h-64v64h-64v64h-64v64h-64v64h64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64zM448 128v64h-64v-64h64zM448 256h64v64h-64h-64v-64h64zM576 320v64v64h-64v64h-64v64h-64v-64
+h-64v-64h-64v-64h64v64h64v64h64v-64h64v-64v-64h64z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="832" 
+d="M384 0v64h-64v64h-64v64h-64v64h-64v64h-64v64h64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64zM448 128v64h-64v-64h64zM448 256h64v64h-64h-64v-64h64zM576 320v64v64h-64v64h-64v64h-64v-64
+h-64v-64h-64v-64h64v64h64v64h64v-64h64v-64v-64h64z" />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="320" 
+ />
+    <glyph glyph-name="exclam" unicode="!" horiz-adv-x="384" 
+d="M128 64h64v-64h-64h-64v64h64zM192 192h-64v64h-64v64v64v64v64v64v64h64v64h64h64v-64h64v-64v-64v-64v-64v-64h-64v-64v-64h-64z" />
+    <glyph glyph-name="quotedbl" unicode="&#x22;" horiz-adv-x="576" 
+d="M384 448v64h-64v64v64v64h64h64h64v-64v-64h-64v-64v-64h-64zM128 448v64h-64v64v64v64h64h64h64v-64v-64h-64v-64v-64h-64z" />
+    <glyph glyph-name="numbersign" unicode="#" horiz-adv-x="768" 
+d="M512 0h-64v64v64h-64h-64v-64v-64h-64h-64v64v64h-64h-64v64h64h64v64v64v64v64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64h64v64v64h64h64v-64v-64h64h64v-64h-64h-64v-64v-64v-64v-64v-64h64h64v-64h-64h-64v-64v-64h-64zM384 192h64v64v64v64v64v64h-64h-64v-64
+v-64v-64v-64v-64h64z" />
+    <glyph glyph-name="dollar" unicode="$" horiz-adv-x="768" 
+d="M384 -64v64h-64h-64h-64h-64v64h64h64h64h64v64v64v64v64h-64h-64v64h-64v64h-64v64v64h64v64h64v64h64h64v64h64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64v-64v-64v-64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM512 64v64h64v64v64h-64v64h-64
+v-64v-64v-64v-64h64zM384 384v64v64v64v64h-64v-64h-64v-64v-64h64v-64h64z" />
+    <glyph glyph-name="percent" unicode="%" horiz-adv-x="832" 
+d="M640 0h-64h-64v64h-64v64v64h64v64h64h64h64v-64h64v-64v-64h-64v-64h-64zM128 0h-64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64zM640 64v64v64h-64v-64v-64
+h64zM256 384h-64h-64v64h-64v64v64h64v64h64h64h64v-64h64v-64v-64h-64v-64h-64zM256 448v64v64h-64v-64v-64h64z" />
+    <glyph glyph-name="ampersand" unicode="&#x26;" horiz-adv-x="512" 
+d="M256 64h64v-64h-64h-64v64h64zM320 128h-64h-64h-64v64h-64v64v64h64v64h-64v64v64h64v64h64h64h64h64v-64h64v-64h-64h-64v64h-64h-64v-64v-64h64v-64h-64v-64v-64h64h64v64h64h64v-64h-64v-64h-64zM256 704h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="quotesingle" unicode="'" horiz-adv-x="320" 
+d="M128 448v64h-64v64v64v64h64h64h64v-64v-64h-64v-64v-64h-64z" />
+    <glyph glyph-name="parenleft" unicode="(" horiz-adv-x="448" 
+d="M320 64h64v-64h-64h-64h-64v64h-64v64h-64v64v64v64v64v64v64v64h64v64h64v64h64h64h64v-64h-64h-64v-64h-64v-64v-64v-64v-64v-64v-64v-64h64v-64h64z" />
+    <glyph glyph-name="parenright" unicode=")" horiz-adv-x="448" 
+d="M192 0h-64h-64v64h64h64v64h64v64v64v64v64v64v64v64h-64v64h-64h-64v64h64h64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="asterisk" unicode="*" horiz-adv-x="448" 
+d="M320 448v64h64v-64h-64zM192 448v64h-64v-64h-64v64h64v64v64h64v64h64v-64h64v-64v-64h-64v-64h-64zM320 640v64h64v-64h-64zM128 640h-64v64h64v-64z" />
+    <glyph glyph-name="plus" unicode="+" horiz-adv-x="640" 
+d="M320 64h-64v64v64v64h-64h-64h-64v64h64h64h64v64v64v64h64h64v-64v-64v-64h64h64h64v-64h-64h-64h-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="comma" unicode="," horiz-adv-x="256" 
+d="M64 -128v64h64v-64h-64zM128 -64v64h-64v64h64h64v-64v-64h-64z" />
+    <glyph glyph-name="hyphen" unicode="-" horiz-adv-x="576" 
+d="M448 320h64v-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64z" />
+    <glyph glyph-name="period" unicode="." horiz-adv-x="256" 
+d="M128 64h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="slash" unicode="/" horiz-adv-x="704" 
+d="M64 0v64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="zero" unicode="0" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64v64v64v64v64h64v64h64h64h64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM448 64h64v64h-64v64h-64v64h-64v64h-64v64h-64v-64v-64v-64v-64v-64h64h64h64h64zM512 256v64v64v64v64v64v64
+h-64h-64h-64h-64h-64v-64v-64h64v-64h64v-64h64v-64h64v-64h64z" />
+    <glyph glyph-name="one" unicode="1" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64v64v64v64v64v64v64v64v64v64h-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64z" />
+    <glyph glyph-name="two" unicode="2" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64v64h-64v64h-64h-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64h64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h64h64
+h64h64h64z" />
+    <glyph glyph-name="three" unicode="3" horiz-adv-x="704" 
+d="M448 0h-64h-64h-64h-64v64h-64v64h-64v64h64h64v-64h64v-64h64h64h64v64h64v64h-64v64h-64v64h-64v64h64v64h64v64h64v64h-64v64h-64h-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64h-64v-64h-64v-64h-64v-64h64v-64h64v-64h64v-64h-64
+v-64h-64v-64h-64z" />
+    <glyph glyph-name="four" unicode="4" horiz-adv-x="704" 
+d="M448 0h-64v64v64v64v64h-64h-64h-64h-64h-64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v-64v-64v-64v-64v-64v-64h64h64v-64h-64h-64v-64v-64v-64v-64h-64zM320 320h64v64v64h-64v-64h-64v-64h64z" />
+    <glyph glyph-name="five" unicode="5" horiz-adv-x="704" 
+d="M384 0h-64h-64h-64h-64h-64v64h64h64h64h64h64v64h64v64h64v64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64h64h64h64h64v-64v-64h-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="six" unicode="6" horiz-adv-x="704" 
+d="M448 0h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64v64v64v64h64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64h-64h-64v64h-64v64h-64h-64h-64v-64h-64v-64v-64v-64h64v64h64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64v-64h-64zM384 64h64v64h64v64v64v64h-64v64
+h-64h-64h-64v-64h-64v-64v-64v-64h64v-64h64h64z" />
+    <glyph glyph-name="seven" unicode="7" horiz-adv-x="704" 
+d="M256 0h-64v64v64v64v64v64h64v64h64v64h64v64h64v64h64v64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="eight" unicode="8" horiz-adv-x="704" 
+d="M448 0h-64h-64h-64h-64v64h-64v64h-64v64v64h64v64h64v64h-64v64h-64v64v64h64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h-64zM384 64h64v64h64v64v64h-64v64h-64h-64h-64v-64h-64v-64v-64h64v-64h64h64z
+M384 384h64v64h64v64v64h-64v64h-64h-64h-64v-64h-64v-64v-64h64v-64h64h64z" />
+    <glyph glyph-name="nine" unicode="9" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64v64h-64v64h64v64v64v64h-64v64h-64h-64h-64v-64h-64v-64v-64v-64h64v-64h64h64h64v-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64h64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="colon" unicode=":" horiz-adv-x="256" 
+d="M128 64h64v-64h-64h-64v64h64zM128 192h-64v64v64h64h64v-64v-64h-64z" />
+    <glyph glyph-name="semicolon" unicode=";" horiz-adv-x="256" 
+d="M64 -128v64h64v-64h-64zM128 -64v64h-64v64h64h64v-64v-64h-64zM128 192h-64v64v64h64h64v-64v-64h-64z" />
+    <glyph glyph-name="less" unicode="&#x3c;" horiz-adv-x="576" 
+d="M448 128h64v-64h-64h-64h-64v64h-64v64h-64v64h-64v64h-64v64h64v64h64v64h64v64h64v64h64h64h64v-64h-64h-64v-64h-64v-64h-64v-64h-64v-64h64v-64h64v-64h64v-64h64z" />
+    <glyph glyph-name="equal" unicode="=" horiz-adv-x="576" 
+d="M448 256h64v-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64zM448 384h-64h-64h-64h-64h-64h-64v64v64h64h64h64h64h64h64h64v-64v-64h-64z" />
+    <glyph glyph-name="greater" unicode="&#x3e;" horiz-adv-x="576" 
+d="M192 64h-64h-64v64h64h64v64h64v64h64v64h64v64h-64v64h-64v64h-64v64h-64h-64v64h64h64h64v-64h64v-64h64v-64h64v-64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="question" unicode="?" horiz-adv-x="576" 
+d="M192 64h64v-64h-64h-64v64h64zM256 192h-64v64v64h64v64h64v64h64v64v64h-64v64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h-64v-64v-64h-64z" />
+    <glyph glyph-name="at" unicode="@" horiz-adv-x="832" 
+d="M512 0h-64h-64h-64h-64v64h-64v64h-64v64h-64v64v64v64v64v64h64v64h64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64zM448 64h64v64h64v64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64v-64h64v-64v-64v-64h64
+v64v64v64v64h-64v64h-64v64h-64h-64h-64v-64h-64v-64h-64v-64v-64v-64v-64v-64h64v-64h64v-64h64h64zM384 256h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="A" unicode="A" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64zM448 320h64v64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64v-64h64h64h64h64z" />
+    <glyph glyph-name="B" unicode="B" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64v-64h64v-64h64v-64v-64h-64v-64h-64zM448 64h64v64v64h-64v64h-64h-64h-64v64h64h64h64v64h64v64v64v64h-64v64h-64h-64h-64h-64v-64
+v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64z" />
+    <glyph glyph-name="C" unicode="C" horiz-adv-x="704" 
+d="M448 0h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64v64v64v64h64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64h-64h-64v64h-64v64h-64h-64h-64v-64h-64v-64v-64v-64v-64v-64v-64v-64h64v-64h64h64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="D" unicode="D" horiz-adv-x="704" 
+d="M384 0h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64zM320 64h64v64h64v64h64v64v64v64v64v64h-64v64h-64v64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64
+h64z" />
+    <glyph glyph-name="E" unicode="E" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64h64h64h64h64h64h64z" />
+    <glyph glyph-name="F" unicode="F" horiz-adv-x="704" 
+d="M128 0h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="G" unicode="G" horiz-adv-x="704" 
+d="M384 0h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64h64v64h64v64h64v64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64h-64v-64h-64v-64v-64v-64v-64v-64v-64v-64h64h64h64v64h64v64h64v64h-64h-64h-64v64h64h64h64h64h64v-64v-64h-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="H" unicode="H" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64h64h64h64h64h64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="I" unicode="I" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64z" />
+    <glyph glyph-name="J" unicode="J" horiz-adv-x="704" 
+d="M384 0h-64h-64h-64v64h-64v64h-64v64h64h64v-64h64v-64h64h64v64h64v64h64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="K" unicode="K" horiz-adv-x="704" 
+d="M576 0h-64v64h-64v64h-64v64h-64v64h-64v64h-64v-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h64v64h64v64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64
+z" />
+    <glyph glyph-name="L" unicode="L" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64h64h64z" />
+    <glyph glyph-name="M" unicode="M" horiz-adv-x="704" 
+d="M320 384v64h-64v64h-64v-64v-64v-64v-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64h64v-64h64v-64h64v64h64v64h64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="N" unicode="N" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64h-64v64h-64v64h-64v64h-64v64h-64v-64v-64v-64v-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64h64v-64h64v-64h64v-64h64v-64h64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="O" unicode="O" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64v64v64v64v64h64v64h64h64h64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM448 64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64
+h64z" />
+    <glyph glyph-name="P" unicode="P" horiz-adv-x="704" 
+d="M128 0h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64v-64h64v-64h64v-64h64v-64h-64v-64h-64v-64h-64v-64h-64h-64h-64h-64v-64v-64v-64v-64h-64zM320 320h64v64h64v64h64v64h-64v64h-64v64h-64h-64h-64v-64v-64v-64v-64v-64h64h64z" />
+    <glyph glyph-name="Q" unicode="Q" horiz-adv-x="704" 
+d="M576 0h-64h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64v64v64v64v64h64v64h64h64h64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64v64h-64v64v64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64h64v64h-64v64h-64v64h-64
+v64h64h64v-64h64v-64h64v-64h64v-64v-64h-64z" />
+    <glyph glyph-name="R" unicode="R" horiz-adv-x="704" 
+d="M576 0h-64v64h-64v64h-64v64h-64v64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64v-64h64v-64h64v-64h64v-64h-64v-64h-64v-64h-64v-64v-64h64v-64h64v-64h64v-64h-64zM320 320h64v64h64v64h64v64h-64v64h-64v64h-64h-64h-64
+v-64v-64v-64v-64v-64h64h64z" />
+    <glyph glyph-name="S" unicode="S" horiz-adv-x="704" 
+d="M384 0h-64h-64h-64h-64h-64v64h64h64h64h64h64v64h64v64h64v64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64h64v64h64v64h64v64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64h-64v-64h-64v-64v-64v-64h64h64h64h64h64h64h64v-64v-64h-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="T" unicode="T" horiz-adv-x="704" 
+d="M384 0h-64v64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="U" unicode="U" horiz-adv-x="704" 
+d="M576 0h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64h64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="V" unicode="V" horiz-adv-x="704" 
+d="M320 0v64h-64v64h-64v64h-64v64h-64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64h64v-64h64v-64h64v64h64v64h64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="W" unicode="W" horiz-adv-x="704" 
+d="M576 0v64h-64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64h-64v-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64h64v64h64v64h64v-64h64v-64h64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="X" unicode="X" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64v-64v-64h-64h-64v64v64v64h64v64h64v64h64v64h-64v64h-64v64h-64v64v64v64h64h64v-64v-64v-64h64v-64h64v-64h64v64h64v64h64v64v64v64h64h64v-64v-64v-64h-64v-64h-64v-64h-64v-64h64v-64h64v-64h64v-64v-64
+v-64h-64z" />
+    <glyph glyph-name="Y" unicode="Y" horiz-adv-x="704" 
+d="M384 0h-64h-64h-64v64h-64v64h-64v64h64h64v-64h64v-64h64h64v64h64v64h64v64v64v64v64v64h-64v-64h-64v-64h-64v-64h-64h-64h-64h-64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h64v64h64v64h64v64h64v64h64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64
+v-64h-64v-64h-64z" />
+    <glyph glyph-name="Z" unicode="Z" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64v64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h64h64h64h64h64h64z" />
+    <glyph glyph-name="bracketleft" unicode="[" horiz-adv-x="384" 
+d="M256 64h64v-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64v-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64z" />
+    <glyph glyph-name="backslash" unicode="\" horiz-adv-x="704" 
+d="M576 0v64h-64v64h-64v64h-64v64h-64v64h-64v64h-64v64h-64v64h-64v64v64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64v-64h-64z" />
+    <glyph glyph-name="bracketright" unicode="]" horiz-adv-x="384" 
+d="M256 0h-64h-64h-64v64h64h64v64v64v64v64v64v64v64v64v64h-64h-64v64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="asciicircum" unicode="^" horiz-adv-x="448" 
+d="M320 448v64h-64v64h-64v-64h-64v-64h-64v64v64h64v64h64v64h64v-64h64v-64h64v-64v-64h-64z" />
+    <glyph glyph-name="underscore" unicode="_" horiz-adv-x="704" 
+d="M576 0h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64z" />
+    <glyph glyph-name="grave" unicode="`" horiz-adv-x="320" 
+d="M192 576h-64v64h-64v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="a" unicode="a" horiz-adv-x="640" 
+d="M512 0h-64v64h-64v-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h64v-64h64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="b" unicode="b" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64h-64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="c" unicode="c" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64h-64h-64v64h-64h-64v-64v-64v-64h64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="d" unicode="d" horiz-adv-x="512" 
+d="M384 0h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="e" unicode="e" horiz-adv-x="512" 
+d="M384 64h64v-64h-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h-64h-64h-64h-64v-64h64h64h64zM256 192h64v64h-64h-64v-64h64z" />
+    <glyph glyph-name="f" unicode="f" horiz-adv-x="448" 
+d="M128 0h-64v64v64v64v64v64v64h64v64h64h64h64h64v-64h-64h-64h-64v-64v-64h64h64h64v-64h-64h-64h-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="g" unicode="g" horiz-adv-x="512" 
+d="M320 -192h-64h-64h-64v64h-64v64h64h64v-64h64h64v64v64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="h" unicode="h" horiz-adv-x="512" 
+d="M384 0h-64v64v64v64v64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64h64h64h64v-64h64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="i" unicode="i" horiz-adv-x="256" 
+d="M128 0h-64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64zM128 448h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="j" unicode="j" horiz-adv-x="256" 
+d="M64 -192h-64h-64v64h64h64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM128 512h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="k" unicode="k" horiz-adv-x="512" 
+d="M384 0h-64v64h-64v64h-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h64v64h64v64h64h64v-64h-64v-64h-64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="l" unicode="l" horiz-adv-x="256" 
+d="M128 0h-64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="m" unicode="m" horiz-adv-x="576" 
+d="M256 128v64v64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64h64v64h64h64h64h64h64v-64h64v-64v-64v-64v-64h-64h-64v64v64v64v64h-64v-64v-64h-64z" />
+    <glyph glyph-name="n" unicode="n" horiz-adv-x="512" 
+d="M384 0h-64v64v64v64v64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="o" unicode="o" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="p" unicode="p" horiz-adv-x="512" 
+d="M128 -128h-64v64v64v64v64v64v64v64h64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64h-64h-64v-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="q" unicode="q" horiz-adv-x="512" 
+d="M384 -128h-64v64v64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="r" unicode="r" horiz-adv-x="512" 
+d="M128 0h-64v64v64v64v64v64h64h64h64h64h64v-64h64v-64h-64h-64v64h-64h-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="s" unicode="s" horiz-adv-x="448" 
+d="M256 0h-64h-64h-64v64h64h64h64v64h-64h-64v64h-64v64h64v64h64h64h64h64v-64h-64h-64h-64v-64h64h64v-64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="t" unicode="t" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64v64h-64v64v64v64v64v64v64v64h64h64v-64v-64v-64h64h64h64v-64h-64h-64h-64v-64v-64v-64h64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="u" unicode="u" horiz-adv-x="512" 
+d="M384 0h-64h-64h-64h-64v64h-64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="v" unicode="v" horiz-adv-x="512" 
+d="M256 0h-64v64h-64v64h-64v64v64v64h64h64v-64v-64v-64h64h64v64v64v64h64h64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="w" unicode="w" horiz-adv-x="576" 
+d="M384 0h-64v64h64v64v64v64v64h64h64v-64v-64v-64v-64h-64v-64h-64zM192 0h-64v64h-64v64v64v64v64h64h64v-64v-64v-64v-64h64v-64h-64zM320 64h-64v64v64h64v-64v-64z" />
+    <glyph glyph-name="x" unicode="x" horiz-adv-x="576" 
+d="M448 0h-64v64h-64v64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h-64v64h-64v64h64h64v-64h64v-64h64v64h64v64h64h64v-64h-64v-64h-64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="y" unicode="y" horiz-adv-x="512" 
+d="M320 -192h-64h-64h-64v64h-64v64h64h64v-64h64h64v64v64h-64h-64h-64v64h-64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="z" unicode="z" horiz-adv-x="512" 
+d="M384 64h64v-64h-64h-64h-64h-64h-64h-64v64h64v64h64v64h64v64h-64h-64h-64v64h64h64h64h64h64h64v-64h-64v-64h-64v-64h-64v-64h64h64z" />
+    <glyph glyph-name="braceleft" unicode="{" horiz-adv-x="448" 
+d="M320 64h64v-64h-64h-64h-64v64h-64v64v64v64h-64v64h-64v64h64v64h64v64v64v64h64v64h64h64h64v-64h-64h-64v-64v-64v-64h-64v-64h-64v-64h64v-64h64v-64v-64v-64h64z" />
+    <glyph glyph-name="bar" unicode="|" horiz-adv-x="256" 
+d="M128 0h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="braceright" unicode="}" horiz-adv-x="512" 
+d="M192 0h-64h-64v64h64h64v64v64v64h64v64h64v64h-64v64h-64v64v64v64h-64h-64v64h64h64h64v-64h64v-64v-64v-64h64v-64h64v-64h-64v-64h-64v-64v-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="asciitilde" unicode="~" horiz-adv-x="640" 
+d="M64 256v64v64h64v64h64h64h64v-64h64v-64h64v64h64v64h64v-64v-64h-64v-64h-64h-64h-64v64h-64v64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni00A0" unicode="&#xa0;" horiz-adv-x="320" 
+ />
+    <glyph glyph-name="exclamdown" unicode="&#xa1;" horiz-adv-x="384" 
+d="M192 0h-64v64h-64v64v64v64v64v64h64v64v64h64h64v-64h64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM256 704h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="cent" unicode="&#xa2;" horiz-adv-x="576" 
+d="M256 64v64h-64h-64v64h-64v64v64v64v64h64v64h64h64v64h64v-64h64h64v-64h64v-64h-64h-64v64h-64v-64v-64v-64v-64h64v64h64h64v-64h-64v-64h-64h-64v-64h-64zM256 192v64v64v64v64h-64v-64v-64v-64v-64h64z" />
+    <glyph glyph-name="sterling" unicode="&#xa3;" horiz-adv-x="640" 
+d="M512 0h-64v64h-64h-64h-64v-64h-64h-64h-64v64h64v64v64v64v64h-64v64h64v64v64v64v64h64v64h64h64h64h64h64v-64h64v-64h-64h-64v64h-64h-64h-64v-64v-64v-64v-64h64h64v-64h-64h-64v-64v-64v-64h64h64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="currency" unicode="&#xa4;" horiz-adv-x="704" 
+d="M576 128h-64v64h-64h-64h-64h-64h-64v-64h-64h-64v64h64v64h64v64h-64v64h64v64h-64v64h-64v64h64h64v-64h64h64h64h64h64v64h64h64v-64h-64v-64h-64v-64h64v-64h-64v-64h64v-64h64v-64h-64zM384 256v64h64v64h-64v64h-64v-64h-64v-64h64v-64h64z" />
+    <glyph glyph-name="yen" unicode="&#xa5;" horiz-adv-x="640" 
+d="M320 0h-64v64v64v64h-64h-64v64h64h64v64h-64h-64v64h64h64v64v64h-64v64h-64v64h-64v64h64h64v-64h64v-64h64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64v-64h64h64v-64h-64h-64v-64h64h64v-64h-64h-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="brokenbar" unicode="&#xa6;" horiz-adv-x="256" 
+d="M128 0h-64v64v64v64v64h64h64v-64v-64v-64v-64h-64zM128 384h-64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="section" unicode="&#xa7;" horiz-adv-x="640" 
+d="M448 0h-64h-64h-64h-64h-64v64h-64v64h64h64v-64h64h64h64h64v64h-64v64h-64h-64v64h-64v64h-64v64h-64v64v64h64v64h-64v64h64v64h64h64h64h64h64h64v-64h64v-64h-64h-64v64h-64h-64h-64h-64v-64h64v-64h64h64v-64h64v-64h64v-64h64v-64v-64h-64v-64h64v-64h-64v-64h-64
+zM384 256h64v64h-64v64h-64v64h-64h-64v-64h64v-64h64v-64h64z" />
+    <glyph glyph-name="dieresis" unicode="&#xa8;" horiz-adv-x="448" 
+d="M320 704h64v-64h-64h-64v64h64zM128 704h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="copyright" unicode="&#xa9;" horiz-adv-x="832" 
+d="M512 384v64h64v-64h-64zM512 0h-64h-64h-64h-64v64h-64v64h-64v64h-64v64v64v64v64v64h64v64h64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64zM448 64h64v64h64v64h64v64v64v64v64v64h-64v64h-64v64h-64h-64h-64v-64
+h-64v-64h-64v-64v-64v-64v-64v-64h64v-64h64v-64h64h64zM448 256h64v-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64v-64h-64h-64v-64v-64v-64h64zM512 256v64h64v-64h-64z" />
+    <glyph glyph-name="ordfeminine" unicode="&#xaa;" horiz-adv-x="704" 
+d="M384 0v64h-64v64h-64v64h-64v64h-64v64h-64v64h64v64h64v64h64v64h64v64h64v64h64v-64v-64v-64v-64h64h64h64v-64v-64v-64h-64h-64h-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="guillemotleft" unicode="&#xab;" horiz-adv-x="576" 
+d="M448 192h-64v64h-64v64h-64v-64h64v-64h-64h-64v64h-64v64h-64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="logicalnot" unicode="&#xac;" horiz-adv-x="640" 
+d="M512 192h-64v64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni00AD" unicode="&#xad;" horiz-adv-x="576" 
+d="M448 320h64v-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64z" />
+    <glyph glyph-name="registered" unicode="&#xae;" horiz-adv-x="832" 
+d="M512 0h-64h-64h-64h-64v64h-64v64h-64v64h-64v64v64v64v64v64h64v64h64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64zM448 64h64v64h64v64h-64v64v64h-64h-64v-64v-64h-64h-64v64v64v64v64v64h-64v-64v-64v-64v-64
+v-64h64v-64h64v-64h64h64zM640 192v64v64v64v64v64h-64v64h-64v64h-64h-64h-64v-64h-64v-64h64h64h64h64v-64h64v-64h-64v64h-64h-64v-64h64h64v-64h64v-64v-64h64z" />
+    <glyph glyph-name="macron" unicode="&#xaf;" horiz-adv-x="704" 
+d="M576 704h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64z" />
+    <glyph glyph-name="degree" unicode="&#xb0;" horiz-adv-x="448" 
+d="M256 448h-64h-64v64h-64v64v64h64v64h64h64h64v-64h64v-64v-64h-64v-64h-64zM256 512v64v64h-64v-64v-64h64z" />
+    <glyph glyph-name="plusminus" unicode="&#xb1;" horiz-adv-x="640" 
+d="M512 128h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64v64v64h-64h-64h-64v64h64h64h64v64v64v64h64h64v-64v-64v-64h64h64h64v-64h-64h-64h-64v-64v-64h64h64z" />
+    <glyph glyph-name="uni00B2" unicode="&#xb2;" horiz-adv-x="384" 
+d="M64 576v64h64v-64h-64zM256 448h64v-64h-64h-64h-64h-64v64h64v64h64v-64h64zM192 512v64h64v-64h-64zM256 576v64h64v-64h-64zM256 640h-64h-64v64h64h64v-64z" />
+    <glyph glyph-name="uni00B3" unicode="&#xb3;" horiz-adv-x="384" 
+d="M64 576v64h64v-64h-64zM192 448h64v-64h-64h-64v64h64zM256 448v64h64v-64h-64zM128 448h-64v64h64v-64zM256 512h-64v64h64v-64zM256 576v64h64v-64h-64zM256 640h-64h-64v64h64h64v-64z" />
+    <glyph glyph-name="acute" unicode="&#xb4;" horiz-adv-x="320" 
+d="M128 576h-64v64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="mu" unicode="&#xb5;" horiz-adv-x="512" 
+d="M128 -128h-64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64h-64h-64h-64v-64v-64h-64z" />
+    <glyph glyph-name="paragraph" unicode="&#xb6;" horiz-adv-x="576" 
+d="M384 0v64v64v64v64v64v64v64v64v64v64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v64v64v64v64v64v64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64h64h64v-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="periodcentered" unicode="&#xb7;" horiz-adv-x="256" 
+d="M128 256h-64v64v64h64h64v-64v-64h-64z" />
+    <glyph glyph-name="cedilla" unicode="&#xb8;" horiz-adv-x="320" 
+d="M128 -64h64v-64h-64h-64v64h64zM192 -64v64h-64h-64v64v64h64v-64h64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni00B9" unicode="&#xb9;" horiz-adv-x="384" 
+d="M64 576v64h64v-64h-64zM256 384h-64h-64h-64v64h64h64v64v64v64h-64v64h64h64v-64v-64v-64v-64h64v-64h-64z" />
+    <glyph glyph-name="ordmasculine" unicode="&#xba;" horiz-adv-x="384" 
+d="M192 448h64v-64h-64h-64v64h64zM256 448v64v64v64h64v-64v-64v-64h-64zM128 448h-64v64v64v64h64v-64v-64v-64zM256 640h-64h-64v64h64h64v-64z" />
+    <glyph glyph-name="guillemotright" unicode="&#xbb;" horiz-adv-x="576" 
+d="M320 192h-64v64h-64v-64h-64h-64v64h64v64h64v64h-64v64h-64v64h64h64v-64h64v64h64h64v-64h64v-64h64v-64h-64v-64h-64v-64h-64zM320 256v64h-64v-64h64zM384 320v64h-64v64h-64v-64h64v-64h64z" />
+    <glyph glyph-name="onequarter" unicode="&#xbc;" horiz-adv-x="832" 
+d="M640 0v64v64h-64h-64v64v64v64h64v-64v-64h64v64v64h64v-64v-64h64v-64h-64v-64v-64h-64zM64 512v64h64v-64h-64zM128 0h-64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64
+v-64h-64zM320 320h-64h-64h-64h-64v64h64h64v64v64v64h-64v64h64h64v-64v-64v-64v-64h64v-64z" />
+    <glyph glyph-name="onehalf" unicode="&#xbd;" horiz-adv-x="832" 
+d="M512 192v64h64v-64h-64zM64 512v64h64v-64h-64zM704 64h64v-64h-64h-64h-64h-64v64h64v64h64v-64h64zM128 0h-64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64z
+M640 128v64h64v-64h-64zM704 192v64h64v-64h-64zM704 256h-64h-64v64h64h64v-64zM320 320h-64h-64h-64h-64v64h64h64v64v64v64h-64v64h64h64v-64v-64v-64v-64h64v-64z" />
+    <glyph glyph-name="threequarters" unicode="&#xbe;" horiz-adv-x="832" 
+d="M640 0v64v64h-64h-64v64v64v64h64v-64v-64h64v64v64h64v-64v-64h64v-64h-64v-64v-64h-64zM64 512v64h64v-64h-64zM128 0h-64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64
+v-64h-64zM192 384h64v-64h-64h-64v64h64zM256 384v64h64v-64h-64zM128 384h-64v64h64v-64zM256 448h-64v64h64v-64zM256 512v64h64v-64h-64zM256 576h-64h-64v64h64h64v-64z" />
+    <glyph glyph-name="questiondown" unicode="&#xbf;" horiz-adv-x="576" 
+d="M320 0h-64h-64v64h-64v64h-64v64v64h64v64h64v64h64v64v64h64h64v-64v-64h-64v-64h-64v-64h-64v-64v-64h64v-64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64zM384 704h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="Agrave" unicode="&#xc0;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64zM448 320h64v64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64v-64h64h64h64h64z
+M384 768h-64v64h-64v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="Aacute" unicode="&#xc1;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64zM448 320h64v64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64v-64h64h64h64h64z
+M384 768h-64v64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="Acircumflex" unicode="&#xc2;" horiz-adv-x="704" 
+d="M384 768v64h64v-64h-64zM256 768v64h64v-64h-64zM576 0h-64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64zM448 320h64v64v64h-64v64h-64
+v64h-64v-64h-64v-64h-64v-64v-64h64h64h64h64zM384 832h-64v64h64v-64z" />
+    <glyph glyph-name="Atilde" unicode="&#xc3;" horiz-adv-x="704" 
+d="M192 768v64h64v-64h-64zM576 0h-64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64zM448 320h64v64v64h-64v64h-64v64h-64v-64h-64v-64h-64
+v-64v-64h64h64h64h64zM384 768h-64v64h-64v64h64h64v-64h64v-64h-64zM448 832v64h64v-64h-64z" />
+    <glyph glyph-name="Adieresis" unicode="&#xc4;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64zM448 320h64v64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64v-64h64h64h64h64z
+M448 832h64v-64h-64h-64v64h64zM256 832h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="Aring" unicode="&#xc5;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64zM448 320h64v64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64v-64h64h64h64h64z
+M384 704v64h64v-64h-64zM320 704h-64v64h64v-64zM384 768h-64v64h64v-64z" />
+    <glyph glyph-name="AE" unicode="&#xc6;" horiz-adv-x="960" 
+d="M832 64h64v-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64h64v64h64v64h64v64h64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64
+v-64v-64v-64h64h64h64h64zM384 320h64v64v64v64v64v64h-64v-64h-64v-64h-64v-64h-64v-64v-64h64h64h64z" />
+    <glyph glyph-name="Ccedilla" unicode="&#xc7;" horiz-adv-x="704" 
+d="M320 -64h64v-64h-64h-64v64h64zM384 -64v64h-64h-64h-64v64h-64v64h-64v64v64v64v64v64v64v64h64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64h-64h-64v64h-64v64h-64h-64h-64v-64h-64v-64v-64v-64v-64v-64v-64v-64h64v-64h64h64h64v64h64v64h64h64v-64h-64v-64h-64v-64
+h-64v-64h-64z" />
+    <glyph glyph-name="Egrave" unicode="&#xc8;" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64h64h64h64h64h64h64zM384 768h-64v64h-64
+v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="Eacute" unicode="&#xc9;" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64h64h64h64h64h64h64zM384 768h-64v64h64
+v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="Ecircumflex" unicode="&#xca;" horiz-adv-x="704" 
+d="M384 768v64h64v-64h-64zM256 768v64h64v-64h-64zM576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64
+v-64v-64h64h64h64h64h64h64zM384 832h-64v64h64v-64z" />
+    <glyph glyph-name="Edieresis" unicode="&#xcb;" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64h64h64h64h64h64h64zM448 832h64v-64h-64
+h-64v64h64zM256 832h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="Igrave" unicode="&#xcc;" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64zM384 768h-64v64h-64v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="Iacute" unicode="&#xcd;" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64zM384 768h-64v64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="Icircumflex" unicode="&#xce;" horiz-adv-x="704" 
+d="M384 768v64h64v-64h-64zM256 768v64h64v-64h-64zM576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64zM384 832
+h-64v64h64v-64z" />
+    <glyph glyph-name="Idieresis" unicode="&#xcf;" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64zM448 832h64v-64h-64h-64v64h64zM256 832h64v-64h-64h-64
+v64h64z" />
+    <glyph glyph-name="Eth" unicode="&#xd0;" horiz-adv-x="768" 
+d="M448 0h-64h-64h-64h-64h-64v64v64v64v64v64h-64v64h64v64v64v64v64v64h64h64h64h64h64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64zM384 64h64v64h64v64h64v64v64v64v64v64h-64v64h-64v64h-64h-64h-64v-64v-64v-64v-64h64h64h64v-64h-64
+h-64h-64v-64v-64v-64v-64h64h64z" />
+    <glyph glyph-name="Ntilde" unicode="&#xd1;" horiz-adv-x="704" 
+d="M192 768v64h64v-64h-64zM576 0h-64v64v64v64v64h-64v64h-64v64h-64v64h-64v64h-64v-64v-64v-64v-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64h64v-64h64v-64h64v-64h64v-64h64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64
+v-64v-64h-64zM384 768h-64v64h-64v64h64h64v-64h64v-64h-64zM448 832v64h64v-64h-64z" />
+    <glyph glyph-name="Ograve" unicode="&#xd2;" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64v64v64v64v64h64v64h64h64h64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM448 64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64
+h64zM384 768h-64v64h-64v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="Oacute" unicode="&#xd3;" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64v64v64v64v64h64v64h64h64h64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM448 64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64
+h64zM384 768h-64v64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="Ocircumflex" unicode="&#xd4;" horiz-adv-x="704" 
+d="M384 768v64h64v-64h-64zM256 768v64h64v-64h-64zM512 0h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64v64v64v64v64h64v64h64h64h64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM448 64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64
+v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64zM384 832h-64v64h64v-64z" />
+    <glyph glyph-name="Otilde" unicode="&#xd5;" horiz-adv-x="704" 
+d="M192 768v64h64v-64h-64zM512 0h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64v64v64v64v64h64v64h64h64h64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM448 64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64
+v-64v-64v-64h64h64h64h64zM384 768h-64v64h-64v64h64h64v-64h64v-64h-64zM448 832v64h64v-64h-64z" />
+    <glyph glyph-name="Odieresis" unicode="&#xd6;" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64v64v64v64v64h64v64h64h64h64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM448 64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64
+h64zM448 832h64v-64h-64h-64v64h64zM256 832h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="multiply" unicode="&#xd7;" horiz-adv-x="576" 
+d="M448 128h-64v64h-64v64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h-64v64h-64v64h64h64v-64h64v-64h64v64h64v64h64h64v-64h-64v-64h-64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="Oslash" unicode="&#xd8;" horiz-adv-x="704" 
+d="M192 -64v64h-64v64h-64v64v64v64v64v64v64v64v64v64h64v64h64h64h64h64h64v64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64h-64h-64h-64h-64v-64h-64zM448 64h64v64v64v64v64v64v64v64v64v64h-64v-64v-64v-64h-64v-64v-64v-64h-64v64v64v64h64v64
+v64v64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64v64v64v64h64v-64v-64v-64h64h64z" />
+    <glyph glyph-name="Ugrave" unicode="&#xd9;" horiz-adv-x="704" 
+d="M576 0h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64h64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64zM384 768h-64v64h-64v64h64h64v-64
+h64v-64h-64z" />
+    <glyph glyph-name="Uacute" unicode="&#xda;" horiz-adv-x="704" 
+d="M576 0h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64h64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64zM384 768h-64v64h64v64h64h64v-64
+h-64v-64h-64z" />
+    <glyph glyph-name="Ucircumflex" unicode="&#xdb;" horiz-adv-x="704" 
+d="M384 768v64h64v-64h-64zM256 768v64h64v-64h-64zM576 0h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64h64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64
+v-64v-64h-64zM384 832h-64v64h64v-64z" />
+    <glyph glyph-name="Udieresis" unicode="&#xdc;" horiz-adv-x="704" 
+d="M576 0h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64h64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64zM448 832h64v-64h-64h-64v64h64z
+M256 832h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="Yacute" unicode="&#xdd;" horiz-adv-x="704" 
+d="M384 0h-64h-64h-64v64h-64v64h-64v64h64h64v-64h64v-64h64h64v64h64v64h64v64v64v64v64v64h-64v-64h-64v-64h-64v-64h-64h-64h-64h-64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h64v64h64v64h64v64h64v64h64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64
+v-64h-64v-64h-64zM384 768h-64v64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="Thorn" unicode="&#xde;" horiz-adv-x="512" 
+d="M128 0h-64v64v64v64v64v64v64v64v64v64h64h64v-64v-64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64h-64h-64v-64v-64h-64zM256 192h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="germandbls" unicode="&#xdf;" horiz-adv-x="640" 
+d="M128 -128v64h-64v64v64v64v64v64v64v64v64v64v64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h64v-64h64v-64v-64v-64h-64v-64h-64h-64h-64h-64v64h64h64h64v64v64v64h-64v64h-64h-64v64h64h64v64h64v64v64h-64v64h-64h-64h-64v-64v-64v-64v-64v-64
+v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="agrave" unicode="&#xe0;" horiz-adv-x="640" 
+d="M512 0h-64v64h-64v-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h64v-64h64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM256 384h-64v64h-64v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="aacute" unicode="&#xe1;" horiz-adv-x="640" 
+d="M512 0h-64v64h-64v-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h64v-64h64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM256 384h-64v64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="acircumflex" unicode="&#xe2;" horiz-adv-x="640" 
+d="M256 384v64h64v-64h-64zM128 384v64h64v-64h-64zM512 0h-64v64h-64v-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h64v-64h64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM256 448h-64v64h64v-64z" />
+    <glyph glyph-name="atilde" unicode="&#xe3;" horiz-adv-x="640" 
+d="M128 384v64h64v-64h-64zM512 0h-64v64h-64v-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h64v-64h64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM320 384h-64v64h-64v64h64h64v-64h64v-64h-64zM384 448v64h64v-64h-64z" />
+    <glyph glyph-name="adieresis" unicode="&#xe4;" horiz-adv-x="640" 
+d="M512 0h-64v64h-64v-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h64v-64h64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM384 448h64v-64h-64h-64v64h64zM192 448h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="aring" unicode="&#xe5;" horiz-adv-x="640" 
+d="M512 0h-64v64h-64v-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h64v-64h64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM256 448h64v-64h-64h-64v64h64zM320 448v64h64v-64h-64zM192 448h-64v64h64v-64zM320 512h-64h-64v64h64h64
+v-64z" />
+    <glyph glyph-name="ae" unicode="&#xe6;" horiz-adv-x="832" 
+d="M704 64h64v-64h-64h-64h-64h-64h-64v64h-64v-64h-64h-64h-64h-64v64h-64v64h64v64h-64v64h64v64h64h64h64h64v-64h64v64h64h64h64h64v-64h64v-64v-64h-64h-64h-64h-64v-64h64h64h64zM256 64h64v64h-64h-64v-64h64zM576 192h64v64h-64h-64v-64h64zM256 192h64v64h-64h-64
+h-64v-64h64h64z" />
+    <glyph glyph-name="ccedilla" unicode="&#xe7;" horiz-adv-x="512" 
+d="M256 -64h64v-64h-64h-64v64h64zM320 -64v64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64h-64h-64v64h-64h-64v-64v-64v-64h64h64v64h64h64v-64h-64v-64v-64h-64z" />
+    <glyph glyph-name="egrave" unicode="&#xe8;" horiz-adv-x="512" 
+d="M384 64h64v-64h-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h-64h-64h-64h-64v-64h64h64h64zM256 192h64v64h-64h-64v-64h64zM256 384h-64v64h-64v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="eacute" unicode="&#xe9;" horiz-adv-x="512" 
+d="M384 64h64v-64h-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h-64h-64h-64h-64v-64h64h64h64zM256 192h64v64h-64h-64v-64h64zM256 384h-64v64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="ecircumflex" unicode="&#xea;" horiz-adv-x="512" 
+d="M256 384v64h64v-64h-64zM128 384v64h64v-64h-64zM384 64h64v-64h-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h-64h-64h-64h-64v-64h64h64h64zM256 192h64v64h-64h-64v-64h64zM256 448h-64v64h64v-64z" />
+    <glyph glyph-name="edieresis" unicode="&#xeb;" horiz-adv-x="512" 
+d="M384 64h64v-64h-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h-64h-64h-64h-64v-64h64h64h64zM256 192h64v64h-64h-64v-64h64zM384 448h64v-64h-64h-64v64h64zM192 448h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="igrave" unicode="&#xec;" horiz-adv-x="320" 
+d="M192 0h-64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64zM192 384h-64v64h-64v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="iacute" unicode="&#xed;" horiz-adv-x="320" 
+d="M128 0h-64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64zM128 384h-64v64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="icircumflex" unicode="&#xee;" horiz-adv-x="320" 
+d="M192 384v64h64v-64h-64zM64 384v64h64v-64h-64zM128 0h-64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64zM192 448h-64v64h64v-64z" />
+    <glyph glyph-name="idieresis" unicode="&#xef;" horiz-adv-x="384" 
+d="M256 384v64h64v-64h-64zM64 384v64h64v-64h-64zM192 0h-64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="eth" unicode="&#xf0;" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64v64h-64v64h-64h-64v64h64h64h64v-64h64v-64h64v-64v-64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="ntilde" unicode="&#xf1;" horiz-adv-x="512" 
+d="M128 384v64h64v-64h-64zM384 0h-64v64v64v64v64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64v-64v-64h-64zM320 384h-64v64h-64v64h64h64v-64h64v-64h-64zM384 448v64h64v-64h-64z" />
+    <glyph glyph-name="ograve" unicode="&#xf2;" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM256 384h-64v64h-64v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="oacute" unicode="&#xf3;" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM256 384h-64v64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="ocircumflex" unicode="&#xf4;" horiz-adv-x="512" 
+d="M256 384v64h64v-64h-64zM128 384v64h64v-64h-64zM320 0h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM256 448h-64v64h64v-64z" />
+    <glyph glyph-name="otilde" unicode="&#xf5;" horiz-adv-x="512" 
+d="M128 384v64h64v-64h-64zM320 0h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM320 384h-64v64h-64v64h64h64v-64h64v-64h-64zM384 448v64h64v-64h-64z" />
+    <glyph glyph-name="odieresis" unicode="&#xf6;" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM384 448h64v-64h-64h-64v64h64zM192 448h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="divide" unicode="&#xf7;" horiz-adv-x="640" 
+d="M320 64h-64v64v64h64h64v-64v-64h-64zM512 320h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64zM320 384h-64v64v64h64h64v-64v-64h-64z" />
+    <glyph glyph-name="oslash" unicode="&#xf8;" horiz-adv-x="512" 
+d="M192 -64v64h-64v64h-64v64v64v64h64v64h64h64v64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="ugrave" unicode="&#xf9;" horiz-adv-x="512" 
+d="M384 0h-64h-64h-64h-64v64h-64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64zM256 384h-64v64h-64v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uacute" unicode="&#xfa;" horiz-adv-x="512" 
+d="M384 0h-64h-64h-64h-64v64h-64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64zM256 384h-64v64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="ucircumflex" unicode="&#xfb;" horiz-adv-x="512" 
+d="M256 384v64h64v-64h-64zM128 384v64h64v-64h-64zM384 0h-64h-64h-64h-64v64h-64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64zM256 448h-64v64h64v-64z" />
+    <glyph glyph-name="udieresis" unicode="&#xfc;" horiz-adv-x="512" 
+d="M384 0h-64h-64h-64h-64v64h-64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64zM384 448h64v-64h-64h-64v64h64zM192 448h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="yacute" unicode="&#xfd;" horiz-adv-x="512" 
+d="M320 -192h-64h-64h-64v64h-64v64h64h64v-64h64h64v64v64h-64h-64h-64v64h-64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM256 384h-64v64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="thorn" unicode="&#xfe;" horiz-adv-x="576" 
+d="M128 0h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64h64h64h64h64v-64h64v-64v-64v-64v-64v-64h-64v-64h-64h-64h-64h-64v-64v-64h-64zM320 192h64v64v64v64v64v64h-64h-64h-64v-64v-64v-64v-64v-64h64h64z" />
+    <glyph glyph-name="ydieresis" unicode="&#xff;" horiz-adv-x="512" 
+d="M320 -192h-64h-64h-64v64h-64v64h64h64v-64h64h64v64v64h-64h-64h-64v64h-64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM384 448h64v-64h-64h-64v64h64zM192 448h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="Gbreve" unicode="&#x11e;" horiz-adv-x="704" 
+d="M384 0h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64h64v64h64v64h64v64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64h-64v-64h-64v-64v-64v-64v-64v-64v-64v-64h64h64h64v64h64v64h64v64h-64h-64h-64v64h64h64h64h64h64v-64v-64h-64v-64h-64v-64h-64v-64h-64z
+M448 832h64v-64h-64h-64h-64v64h64h64zM512 832v64h64v-64h-64zM320 832h-64v64h64v-64z" />
+    <glyph glyph-name="gbreve" unicode="&#x11f;" horiz-adv-x="512" 
+d="M320 -192h-64h-64h-64v64h-64v64h64h64v-64h64h64v64v64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64zM256 448h64v-64h-64h-64v64h64zM320 448v64h64v-64h-64zM192 448h-64
+v64h64v-64z" />
+    <glyph glyph-name="Idotaccent" unicode="&#x130;" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64zM384 768h-64v64v64h64h64v-64v-64h-64z" />
+    <glyph glyph-name="dotlessi" unicode="&#x131;" horiz-adv-x="256" 
+d="M128 0h-64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="Scedilla" unicode="&#x15e;" horiz-adv-x="704" 
+d="M256 -64h64v-64h-64h-64v64h64zM320 -64v64h-64h-64h-64h-64v64h64h64h64h64h64v64h64v64h64v64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64h64v64h64v64h64v64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64h-64v-64h-64v-64v-64v-64h64h64h64h64h64h64h64v-64v-64h-64
+v-64h-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="scedilla" unicode="&#x15f;" horiz-adv-x="448" 
+d="M128 -64h64v-64h-64h-64v64h64zM192 -64v64h-64h-64v64h64h64h64v64h-64h-64v64h-64v64h64v64h64h64h64h64v-64h-64h-64h-64v-64h64h64v-64h64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni0410" unicode="&#x410;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64zM448 320h64v64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64v-64h64h64h64h64z" />
+    <glyph glyph-name="uni0411" unicode="&#x411;" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64zM448 64h64v64v64v64h-64v64h-64h-64h-64h-64v-64v-64v-64
+v-64h64h64h64h64z" />
+    <glyph glyph-name="uni0412" unicode="&#x412;" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64v-64h64v-64h64v-64v-64h-64v-64h-64zM448 64h64v64v64h-64v64h-64h-64h-64v64h64h64h64v64h64v64v64v64h-64v64h-64h-64h-64h-64v-64
+v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64z" />
+    <glyph glyph-name="uni0413" unicode="&#x413;" horiz-adv-x="704" 
+d="M128 0h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0414" unicode="&#x414;" horiz-adv-x="832" 
+d="M704 -128h-64v64v64h-64h-64h-64h-64h-64h-64h-64v-64v-64h-64h-64v64v64v64h64v64v64h64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64v-64v-64v-64h-64zM512 64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64v-64
+v-64v-64v-64v-64v-64v-64h-64v-64v-64h64h64h64h64z" />
+    <glyph glyph-name="uni0415" unicode="&#x415;" horiz-adv-x="704" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64h64h64h64h64h64h64z" />
+    <glyph glyph-name="uni0416" unicode="&#x416;" 
+d="M768 0h-64v64v64v64h-64v64h-64v64h-64v-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64h-64v-64h-64v-64h-64v-64v-64v-64h-64h-64v64v64v64h64v64h64v64h64v64h-64v64h-64v64h-64v64v64v64h64h64v-64v-64v-64h64v-64h64v-64h64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64
+h64v64h64v64h64v64v64v64h64h64v-64v-64v-64h-64v-64h-64v-64h-64v-64h64v-64h64v-64h64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0417" unicode="&#x417;" horiz-adv-x="704" 
+d="M448 0h-64h-64h-64h-64v64h-64v64h-64v64v64h64h64v-64v-64h64v-64h64h64h64v64h64v64v64h-64v64h-64h-64v64h64h64v64h64v64v64h-64v64h-64h-64h-64v-64h-64v-64v-64h-64h-64v64v64h64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h64v-64h64v-64
+v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni0418" unicode="&#x418;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64v64v64v64v64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h64v64h64v64h64v64h64v64h64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0419" unicode="&#x419;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64v64v64v64v64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h64v64h64v64h64v64h64v64h64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64zM384 832h64
+v-64h-64h-64h-64v64h64h64zM448 832v64h64v-64h-64zM256 832h-64v64h64v-64z" />
+    <glyph glyph-name="uni041A" unicode="&#x41a;" horiz-adv-x="704" 
+d="M576 0h-64v64h-64v64h-64v64h-64v64h-64v64h-64v-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h64v64h64v64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64
+z" />
+    <glyph glyph-name="uni041B" unicode="&#x41b;" horiz-adv-x="768" 
+d="M640 0h-64v64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64v-64h-64h-64v64v64h64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni041C" unicode="&#x41c;" horiz-adv-x="704" 
+d="M320 384v64h-64v64h-64v-64v-64v-64v-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64h64v-64h64v-64h64v64h64v64h64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni041D" unicode="&#x41d;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64h64h64h64h64h64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni041E" unicode="&#x41e;" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64v64v64v64v64h64v64h64h64h64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM448 64h64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64
+h64z" />
+    <glyph glyph-name="uni041F" unicode="&#x41f;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0420" unicode="&#x420;" horiz-adv-x="704" 
+d="M128 0h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64v-64h64v-64h64v-64h64v-64h-64v-64h-64v-64h-64v-64h-64h-64h-64h-64v-64v-64v-64v-64h-64zM320 320h64v64h64v64h64v64h-64v64h-64v64h-64h-64h-64v-64v-64v-64v-64v-64h64h64z" />
+    <glyph glyph-name="uni0421" unicode="&#x421;" horiz-adv-x="704" 
+d="M448 0h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64v64v64v64h64v64h64v64h64h64h64h64h64v-64h64v-64h64v-64h-64h-64v64h-64v64h-64h-64h-64v-64h-64v-64v-64v-64v-64v-64v-64v-64h64v-64h64h64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni0422" unicode="&#x422;" horiz-adv-x="704" 
+d="M384 0h-64v64v64v64v64v64v64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0423" unicode="&#x423;" horiz-adv-x="704" 
+d="M384 0h-64h-64h-64v64h-64v64h-64v64h64h64v-64h64v-64h64h64v64h64v64h64v64v64v64v64v64h-64v-64h-64v-64h-64v-64h-64h-64h-64h-64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h64v64h64v64h64v64h64v64h64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64
+v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni0424" unicode="&#x424;" horiz-adv-x="768" 
+d="M384 0h-64v64v64h-64h-64h-64v64h-64v64v64v64v64v64h64v64h64h64h64v64v64h64h64v-64v-64h64h64h64v-64h64v-64v-64v-64v-64v-64h-64v-64h-64h-64h-64v-64v-64h-64zM512 192h64v64v64v64v64v64h-64h-64v-64v-64v-64v-64v-64h64zM256 192h64v64v64v64v64v64h-64h-64v-64
+v-64v-64v-64v-64h64z" />
+    <glyph glyph-name="uni0425" unicode="&#x425;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64v-64v-64h-64h-64v64v64v64h64v64h64v64h64v64h-64v64h-64v64h-64v64v64v64h64h64v-64v-64v-64h64v-64h64v-64h64v64h64v64h64v64v64v64h64h64v-64v-64v-64h-64v-64h-64v-64h-64v-64h64v-64h64v-64h64v-64v-64
+v-64h-64z" />
+    <glyph glyph-name="uni0426" unicode="&#x426;" horiz-adv-x="768" 
+d="M640 -128h-64v64v64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64h64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0427" unicode="&#x427;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64h64h64h64h64h64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0428" unicode="&#x428;" 
+d="M768 0h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64v64v64v64v64v64v64v64v64v64
+v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0429" unicode="&#x429;" horiz-adv-x="960" 
+d="M832 -128h-64v64v64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64v64v64v64v64v64
+v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni042A" unicode="&#x42a;" 
+d="M704 0h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64h-64h-64h-64v64h64h64h64h64h64v-64v-64v-64v-64v-64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64zM640 64h64v64v64v64h-64v64h-64h-64h-64h-64v-64v-64v-64v-64h64h64h64h64z" />
+    <glyph glyph-name="uni042B" unicode="&#x42b;" 
+d="M768 0h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64zM512 0h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64z
+M448 64h64v64v64v64h-64v64h-64h-64h-64h-64v-64v-64v-64v-64h64h64h64h64z" />
+    <glyph glyph-name="uni042C" unicode="&#x42c;" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64zM448 64h64v64v64v64h-64v64h-64h-64h-64h-64v-64v-64v-64v-64h64h64h64h64z" />
+    <glyph glyph-name="uni042D" unicode="&#x42d;" horiz-adv-x="768" 
+d="M512 0h-64h-64h-64h-64h-64v64h-64v64h-64v64v64h64h64v-64v-64h64v-64h64h64h64h64v64h64v64v64v64h-64h-64h-64h-64v64h64h64h64h64v64v64v64h-64v64h-64h-64h-64h-64v-64h-64v-64v-64h-64h-64v64v64h64v64h64v64h64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64v-64v-64
+v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni042E" unicode="&#x42e;" 
+d="M704 0h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64h-64v-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h64v64v64v64v64h64v64h64h64h64h64h64h64h64v-64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64zM640 64h64v64
+v64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64z" />
+    <glyph glyph-name="uni042F" unicode="&#x42f;" horiz-adv-x="704" 
+d="M576 0h-64v64v64v64v64h-64h-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64v64h-64v64h-64v64h-64v64h64v64h64v64h64v64h64h64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64zM448 320h64v64v64v64v64v64h-64h-64h-64v-64h-64v-64h-64
+v-64h64v-64h64v-64h64h64z" />
+    <glyph glyph-name="uni0430" unicode="&#x430;" horiz-adv-x="640" 
+d="M512 0h-64v64h-64v-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h64v-64h64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="uni0431" unicode="&#x431;" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64v64h-64v64v64v64v64v64h64v64h64v64h64h64h64h64v-64h-64h-64h-64v-64h-64v-64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="uni0432" unicode="&#x432;" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64h-64v64v64v64v64v64h64h64h64h64h64v-64h64v-64h-64v-64h64v-64h-64v-64h-64zM256 64h64v64h-64h-64v-64h64zM256 192h64v64h-64h-64v-64h64z" />
+    <glyph glyph-name="uni0433" unicode="&#x433;" horiz-adv-x="448" 
+d="M128 0h-64v64v64v64v64v64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0434" unicode="&#x434;" horiz-adv-x="704" 
+d="M576 -128h-64v64v64h-64h-64h-64h-64h-64v-64v-64h-64h-64v64v64v64h64v64h64v64v64v64h64h64h64h64h64h64v-64v-64v-64v-64h64v-64v-64v-64h-64zM384 64h64v64v64v64h-64h-64v-64v-64h-64v-64h64h64z" />
+    <glyph glyph-name="uni0435" unicode="&#x435;" horiz-adv-x="512" 
+d="M384 64h64v-64h-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64h-64h-64h-64h-64v-64h64h64h64zM256 192h64v64h-64h-64v-64h64z" />
+    <glyph glyph-name="uni0436" unicode="&#x436;" horiz-adv-x="768" 
+d="M640 0h-64v64h-64v64h-64v-64v-64h-64h-64v64v64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h-64v64h-64v64h64h64v-64h64v-64h64v64v64h64h64v-64v-64h64v64h64v64h64h64v-64h-64v-64h-64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni0437" unicode="&#x437;" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64h-64v64h64h64h64h64v64h-64h-64v64h64h64v64h-64h-64h-64h-64v64h64h64h64h64h64v-64h64v-64h-64v-64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni0438" unicode="&#x438;" horiz-adv-x="512" 
+d="M384 0h-64v64v64h-64v-64h-64v-64h-64h-64v64v64v64v64v64h64h64v-64v-64h64v64h64v64h64h64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0439" unicode="&#x439;" horiz-adv-x="512" 
+d="M384 0h-64v64v64h-64v-64h-64v-64h-64h-64v64v64v64v64v64h64h64v-64v-64h64v64h64v64h64h64v-64v-64v-64v-64v-64h-64zM256 448h64v-64h-64h-64v64h64zM320 448v64h64v-64h-64zM192 448h-64v64h64v-64z" />
+    <glyph glyph-name="uni043A" unicode="&#x43a;" horiz-adv-x="512" 
+d="M384 0h-64v64h-64v64h-64v-64v-64h-64h-64v64v64v64v64v64h64h64v-64v-64h64v64h64v64h64h64v-64h-64v-64h-64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni043B" unicode="&#x43b;" horiz-adv-x="576" 
+d="M448 0h-64v64v64v64v64h-64h-64v-64v-64v-64h-64v-64h-64h-64v64h64v64v64v64v64h64h64h64h64h64h64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni043C" unicode="&#x43c;" horiz-adv-x="576" 
+d="M256 64v64h-64v-64v-64h-64h-64v64v64v64v64v64h64h64v-64h64v-64h64v64h64v64h64h64v-64v-64v-64v-64v-64h-64h-64v64v64h-64v-64h-64z" />
+    <glyph glyph-name="uni043D" unicode="&#x43d;" horiz-adv-x="512" 
+d="M384 0h-64v64v64h-64h-64v-64v-64h-64h-64v64v64v64v64v64h64h64v-64v-64h64h64v64v64h64h64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni043E" unicode="&#x43e;" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="uni043F" unicode="&#x43f;" horiz-adv-x="512" 
+d="M384 0h-64v64v64v64v64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64h64h64h64h64h64h64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0440" unicode="&#x440;" horiz-adv-x="512" 
+d="M128 -128h-64v64v64v64v64v64v64v64h64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64h-64h-64v-64v-64h-64zM256 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="uni0441" unicode="&#x441;" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64h64v-64h64v-64h-64h-64v64h-64h-64v-64v-64v-64h64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni0442" unicode="&#x442;" horiz-adv-x="512" 
+d="M256 0h-64v64v64v64v64h-64h-64v64h64h64h64h64h64h64v-64h-64h-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0443" unicode="&#x443;" horiz-adv-x="512" 
+d="M320 -192h-64h-64h-64v64h-64v64h64h64v-64h64h64v64v64h-64h-64h-64v64h-64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni0444" unicode="&#x444;" horiz-adv-x="640" 
+d="M320 -128h-64v64v64h-64h-64v64h-64v64v64v64h64v64h64h64v64v64h64h64v-64v-64h64h64v-64h64v-64v-64v-64h-64v-64h-64h-64v-64v-64h-64zM448 64v64v64v64h-64v-64v-64v-64h64zM256 64v64v64v64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="uni0445" unicode="&#x445;" horiz-adv-x="576" 
+d="M448 0h-64v64h-64v64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h-64v64h-64v64h64h64v-64h64v-64h64v64h64v64h64h64v-64h-64v-64h-64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni0446" unicode="&#x446;" horiz-adv-x="576" 
+d="M448 -128h-64v64v64h-64h-64h-64h-64h-64v64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64h64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0447" unicode="&#x447;" horiz-adv-x="512" 
+d="M384 0h-64v64v64h-64h-64h-64v64h-64v64v64h64h64v-64v-64h64h64v64v64h64h64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0448" unicode="&#x448;" horiz-adv-x="768" 
+d="M640 0h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni0449" unicode="&#x449;" horiz-adv-x="832" 
+d="M704 -128h-64v64v64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64h64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni044A" unicode="&#x44a;" horiz-adv-x="640" 
+d="M448 0h-64h-64h-64h-64v64v64v64v64h-64h-64v64h64h64h64h64v-64v-64h64h64h64v-64h64v-64h-64v-64h-64zM384 64h64v64h-64h-64v-64h64z" />
+    <glyph glyph-name="uni044B" unicode="&#x44b;" horiz-adv-x="640" 
+d="M512 0h-64v64h-64v-64h-64h-64h-64h-64h-64v64v64v64v64v64h64h64v-64v-64h64h64h64v-64h64v64v64v64h64h64v-64v-64v-64v-64v-64h-64zM256 64h64v64h-64h-64v-64h64z" />
+    <glyph glyph-name="uni044C" unicode="&#x44c;" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64h-64v64v64v64v64v64h64h64v-64v-64h64h64h64v-64h64v-64h-64v-64h-64zM256 64h64v64h-64h-64v-64h64z" />
+    <glyph glyph-name="uni044D" unicode="&#x44d;" horiz-adv-x="512" 
+d="M320 0h-64h-64h-64v64h-64v64h64h64v-64h64h64v64h-64v64h64v64h-64h-64v-64h-64h-64v64h64v64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni044E" unicode="&#x44e;" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64v64h-64v64h-64v-64v-64h-64h-64v64v64v64v64v64h64h64v-64v-64h64v64h64v64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64zM448 64h64v64v64v64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="uni044F" unicode="&#x44f;" horiz-adv-x="512" 
+d="M384 0h-64v64v64h-64v-64h-64v-64h-64h-64v64h64v64v64h-64v64h64v64h64h64h64h64h64v-64v-64v-64v-64v-64h-64zM256 192h64v64h-64h-64v-64h64z" />
+    <glyph glyph-name="ellipsis" unicode="&#x2026;" horiz-adv-x="640" 
+d="M512 64h64v-64h-64h-64v64h64zM320 64h64v-64h-64h-64v64h64zM128 64h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="Euro" unicode="&#x20ac;" horiz-adv-x="704" 
+d="M512 0h-64h-64h-64h-64h-64v64h-64v64v64v64h-64v64h64v64h-64v64h64v64v64v64h64v64h64h64h64h64h64h64v-64h64v-64h-64h-64v64h-64h-64h-64h-64v-64v-64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64v-64v-64h64h64h64h64v64h64h64
+v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3000" unicode="&#x3000;" 
+ />
+    <glyph glyph-name="uni3001" unicode="&#x3001;" 
+d="M256 0h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni3002" unicode="&#x3002;" 
+d="M192 64h64v-64h-64h-64v64h64zM256 64v64v64h64v-64v-64h-64zM128 64h-64v64v64h64v-64v-64zM256 192h-64h-64v64h64h64v-64z" />
+    <glyph glyph-name="uni3003" unicode="&#x3003;" 
+d="M512 448v64h-64v64v64v64h64h64h64v-64v-64h-64v-64v-64h-64zM256 448v64h-64v64v64v64h64h64h64v-64v-64h-64v-64v-64h-64z" />
+    <glyph glyph-name="uni3005" unicode="&#x3005;" 
+d="M512 0h-64v64h-64h-64v64h64h64v64v64h64v64h-64h-64h-64v-64h-64h-64v64h64v64v64h64h64v-64h64h64h64h64h64v-64h-64v-64h-64v-64v-64h-64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni3006" unicode="&#x3006;" 
+d="M256 0h-64h-64v64v64v64v64v64h64v64h64h64h64h64h64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h64v-64h64v-64h-64h-64v64h-64h-64v-64h-64v-64h-64v-64h-64zM320 128v64h64v64h64v64h-64h-64h-64v-64v-64v-64h64z" />
+    <glyph glyph-name="uni3007" unicode="&#x3007;" 
+d="M576 0h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64v64h64v64h64v64h64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64zM512 64h64v64h64v64v64v64v64v64h-64v64h-64h-64h-64h-64v-64h-64v-64v-64v-64v-64v-64h64v-64h64h64h64z" />
+    <glyph glyph-name="uni3008" unicode="&#x3008;" 
+d="M768 0h-64v64v64h-64v64v64h-64v64h64v64v64h64v64v64h64h64v-64v-64h-64v-64v-64h-64v-64h64v-64v-64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni3009" unicode="&#x3009;" 
+d="M128 0h-64v64v64h64v64v64h64v64h-64v64v64h-64v64v64h64h64v-64v-64h64v-64v-64h64v-64h-64v-64v-64h-64v-64v-64h-64z" />
+    <glyph glyph-name="uni300A" unicode="&#x300a;" 
+d="M768 0h-64v64v64h-64v64v64h-64v-64v-64h64v-64v-64h-64h-64v64v64h-64v64v64h-64v64h64v64v64h64v64v64h64h64v-64v-64h-64v-64v-64h-64v-64h64v64h64v64v64h64v64v64h64h64v-64v-64h-64v-64v-64h-64v-64h64v-64v-64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni300B" unicode="&#x300b;" 
+d="M320 0h-64v64v64h-64v-64v-64h-64h-64v64v64h64v64v64h64v64h-64v64v64h-64v64v64h64h64v-64v-64h64v64v64h64h64v-64v-64h64v-64v-64h64v-64h-64v-64v-64h-64v-64v-64h-64zM320 128v64v64h-64v-64v-64h64zM384 256v64h-64v64v64h-64v-64v-64h64v-64h64z" />
+    <glyph glyph-name="uni300C" unicode="&#x300c;" 
+d="M640 320h-64v64v64v64v64v64v64h64h64h64h64v-64h-64h-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni300D" unicode="&#x300d;" 
+d="M256 0h-64h-64h-64v64h64h64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni300E" unicode="&#x300e;" 
+d="M704 256h-64h-64v64v64v64v64v64v64v64h64h64h64h64v-64v-64v-64h-64v-64v-64v-64v-64h-64zM704 320v64v64v64v64h64v64h-64h-64v-64v-64v-64v-64v-64h64z" />
+    <glyph glyph-name="uni300F" unicode="&#x300f;" 
+d="M256 0h-64h-64h-64v64v64v64h64v64v64v64v64h64h64h64v-64v-64v-64v-64v-64v-64v-64h-64zM192 64h64v64v64v64v64v64h-64v-64v-64v-64v-64h-64v-64h64z" />
+    <glyph glyph-name="uni3010" unicode="&#x3010;" 
+d="M768 0h-64h-64h-64v64v64v64v64v64v64v64v64v64v64v64h64h64h64h64v-64h-64v-64h-64v-64v-64h-64v-64v-64v-64h64v-64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni3011" unicode="&#x3011;" 
+d="M256 0h-64h-64h-64v64h64v64h64v64v64h64v64v64v64h-64v64v64h-64v64h-64v64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni3012" unicode="&#x3012;" 
+d="M448 0h-64v64v64v64v64v64v64h-64h-64h-64v64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64v-64v-64h-64zM576 576h64v-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64z" />
+    <glyph glyph-name="uni3013" unicode="&#x3013;" 
+d="M448 128h-64h-64h-64h-64h-64h-64v64v64h64h64h64h64h64h64h64v-64v-64h-64zM448 320h-64h-64h-64h-64h-64h-64v64v64h64h64h64h64h64h64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni3014" unicode="&#x3014;" 
+d="M768 0h-64v64h-64v64h-64v64v64v64v64v64v64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64v-64v-64v-64v-64v-64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni3015" unicode="&#x3015;" 
+d="M128 0h-64v64h64v64h64v64v64v64v64v64v64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni301C" unicode="&#x301c;" 
+d="M640 256h-64h-64h-64v64h-64v64h-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64h64h64h64v-64h64v-64h64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3041" unicode="&#x3041;" 
+d="M576 0h-64v64h-64v-64h-64h-64h-64h-64v64h-64v64v64h64v64h64v64v64h-64h-64v64h64h64v64h64h64v-64h64h64h64v-64h-64h-64h-64v-64h64h64h64h64v-64h64v-64v-64v-64h-64v-64h-64zM576 64v64h-64v-64h64zM320 64v64h-64v-64h64zM448 128v64h64v64h-64h-64v-64v-64h64z
+" />
+    <glyph glyph-name="uni3042" unicode="&#x3042;" 
+d="M640 0h-64h-64v64h-64v-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64h64v64h64v64h-64h-64v64h64h64v64h64h64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64zM576 64h64v64v64v64h-64v-64v-64h-64v-64h64z
+M320 64v64h-64v64v64h-64v-64v-64h64v-64h64zM448 128v64v64h64v64h-64h-64h-64v-64h64v-64v-64h64z" />
+    <glyph glyph-name="uni3043" unicode="&#x3043;" 
+d="M384 0h-64h-64v64h-64v64h-64v64v64h64v64v64h64v64h64h64v-64h-64v-64v-64h-64v-64v-64h64v-64h64v64v64h64h64v-64v-64h-64v-64h-64zM640 128h-64v64v64v64h-64v64v64h64h64v-64v-64h64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni3044" unicode="&#x3044;" 
+d="M448 0h-64h-64h-64v64h-64v64h-64v64v64v64v64h64v64v64h64v64h64h64v-64h-64v-64v-64h-64v-64v-64v-64v-64h64v-64h64h64v64v64h64h64v-64v-64h-64v-64h-64zM768 128h-64v64v64v64v64h-64v64v64h-64v64h64h64v-64h64v-64v-64h64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni3045" unicode="&#x3045;" 
+d="M448 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64v64h-64v64h-64h-64h-64h-64v-64h-64h-64v64h64v64h64h64h64h64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64h-64v-64h-64zM576 512h64v-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64z" />
+    <glyph glyph-name="uni3046" unicode="&#x3046;" 
+d="M448 0h-64h-64h-64h-64h-64v64h64h64h64h64v64h64h64h64v64h64v64v64v64h-64v64h-64h-64h-64v-64h-64h-64h-64v-64h-64h-64v64h64v64h64h64v64h64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM640 640h64v-64h-64h-64h-64h-64h-64h-64
+h-64h-64v64h64h64h64h64h64h64h64z" />
+    <glyph glyph-name="uni3047" unicode="&#x3047;" 
+d="M576 0h-64v64h-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64v64h-64h-64h-64h-64v64h64h64h64h64h64h64v-64v-64h-64v-64h-64v-64h64v-64h64v-64h-64zM512 512h64v-64h-64h-64h-64h-64v64h64h64h64z" />
+    <glyph glyph-name="uni3048" unicode="&#x3048;" 
+d="M640 0h-64v64h-64v64h-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64v64h64v64h64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64v-64v-64h-64v-64h-64v-64h-64v-64h64v-64h64v-64h64v-64h-64zM576 640h64v-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64
+h64z" />
+    <glyph glyph-name="uni3049" unicode="&#x3049;" 
+d="M512 0h-64v64h64v64v64h-64h-64v-64v-64h-64v-64h-64h-64h-64v64h-64v64v64h64v64h64h64v64h-64h-64v64h64h64v64h64h64v-64h64h64v-64h-64h-64v-64h64h64h64v-64h64v-64v-64h-64v-64h-64zM256 64v64v64h-64v-64v-64h64zM640 384h-64v64h-64v64h64h64v-64h64v-64h-64z
+" />
+    <glyph glyph-name="uni304A" unicode="&#x304a;" 
+d="M640 0h-64v64h64v64v64v64v64h-64h-64v-64v-64v-64v-64h-64v-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64v64h64h64v64h-64h-64h-64v64h64h64h64v64h64h64v-64h64h64h64v-64h-64h-64h-64v-64h64h64h64v-64h64v-64v-64v-64v-64h-64v-64h-64zM320 64h64v64v64v64v64h-64
+v-64h-64v-64v-64v-64h64zM768 576h-64v64h-64v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni304B" unicode="&#x304b;" 
+d="M512 0h-64h-64v64h64h64v64v64v64v64h-64h-64v-64v-64h-64v-64v-64h-64v-64h-64h-64v64h64v64v64h64v64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64h64h64v-64h64v-64v-64v-64v-64h-64v-64h-64zM640 320v64v64h-64v64h64h64v-64h64v-64v-64h-64h-64z" />
+    <glyph glyph-name="uni304C" unicode="&#x304c;" 
+d="M768 512v64v64h64v-64v-64h-64zM640 512v64v64h64v-64v-64h-64zM512 0h-64h-64v64h-64v64h64h64v-64h64v64v64v64v64h-64v64h-64h-64v-64v-64v-64h-64v-64v-64h-64v-64h-64h-64v64h64v64v64h64v64v64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64h64h64v-64h64v-64h64
+v-64v-64v-64v-64h-64v-64h-64zM768 128h-64v64v64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni304D" unicode="&#x304d;" 
+d="M640 -64h-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64h64v64h64h64h64h64h64h64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64v64h-64h-64h-64h-64v64h64h64h64v64h64h64v-64h64h64v-64h-64v-64h64h64v-64h-64v-64h64v-64v-64h-64h-64v64h-64h-64h-64h-64h-64h-64
+v-64v-64v-64h64v-64h64h64h64h64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni304E" unicode="&#x304e;" 
+d="M832 576v64v64h64v-64v-64h-64zM640 -64h-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64h64v64h64h64h64h64h64h64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64v64h-64h-64h-64h-64v64h64h64h64v64h64h64v-64h64h64v-64h-64v-64h64h64v-64h-64v-64h64v-64v-64h-64
+h-64v64h-64h-64h-64h-64h-64h-64v-64v-64v-64h64v-64h64h64h64h64h64v64h64h64v-64h-64v-64h-64zM704 576v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni304F" unicode="&#x304f;" 
+d="M576 0h-64v64h-64v64h-64v64h-64v64h-64v64h-64v64h64v64h64v64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni3050" unicode="&#x3050;" 
+d="M704 448v64v64h64v-64v-64h-64zM576 448v64v64h64v-64v-64h-64zM576 0h-64v64h-64v64h-64v64h-64v64h-64v64h-64v64h64v64h64v64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni3051" unicode="&#x3051;" 
+d="M576 0h-64v64h64v64v64h64v64v64v64h-64h-64h-64v64h64h64h64v64v64h64h64v-64v-64h64v-64h-64v-64v-64v-64h-64v-64v-64h-64v-64h-64zM320 0h-64h-64v64h-64v64h-64v64v64v64v64v64h64v64v64h64v64h64h64v-64h-64v-64v-64h-64v-64v-64v-64v-64v-64h64v-64h64v64h64h64
+v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3052" unicode="&#x3052;" 
+d="M832 576v64v64h64v-64v-64h-64zM512 0h-64v64h64v64v64h64v64v64v64h-64h-64h-64v64h64h64h64v64v64h64h64v-64v-64h64v-64h-64v-64v-64v-64h-64v-64v-64h-64v-64h-64zM256 0h-64h-64v64h-64v64h-64v64v64v64v64v64h64v64v64h64v64h64h64v-64h-64v-64v-64h-64v-64v-64
+v-64v-64v-64h64v-64h64v64h64h64v-64h-64v-64h-64zM704 576v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni3053" unicode="&#x3053;" 
+d="M512 0h-64h-64h-64h-64h-64v64h-64v64v64h64v64h64h64v-64h-64v-64v-64h64h64h64h64v64h64h64v-64h-64v-64h-64zM512 320h-64v64h64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3054" unicode="&#x3054;" 
+d="M768 512v64v64h64v-64v-64h-64zM448 0h-64h-64h-64h-64h-64v64h-64v64v64h64v64h64h64v-64h-64v-64v-64h64h64h64h64v64h64h64v-64h-64v-64h-64zM448 320h-64v64h64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64v-64h-64v-64h-64zM640 512v64v64
+h64v-64v-64h-64z" />
+    <glyph glyph-name="uni3055" unicode="&#x3055;" 
+d="M640 -64h-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64h64v64h64h64h64h64h64v64v64h-64h-64h-64h-64v64h64h64h64v64h64h64v-64h64h64h64v-64h-64h-64v-64v-64h64v-64h64v-64h-64h-64v64h-64h-64h-64h-64h-64h-64v-64v-64v-64h64v-64h64h64h64h64h64v64h64h64v-64
+h-64v-64h-64z" />
+    <glyph glyph-name="uni3056" unicode="&#x3056;" 
+d="M832 512v64v64h64v-64v-64h-64zM576 -64h-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64h64v64h64h64h64h64h64v64v64h-64h-64h-64h-64v64h64h64h64v64h64h64v-64h64h64h64v-64h-64h-64v-64v-64h64v-64h64v-64h-64h-64v64h-64h-64h-64h-64h-64h-64v-64v-64v-64h64v-64
+h64h64h64h64h64v64h64h64v-64h-64v-64h-64zM704 512v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni3057" unicode="&#x3057;" 
+d="M512 0h-64h-64h-64v64h-64v64h-64v64v64v64v64h64v64v64h64v64h64h64v-64h-64v-64v-64h-64v-64v-64v-64v-64h64v-64h64h64v64h64v64v64h64h64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3058" unicode="&#x3058;" 
+d="M640 448v64v64h64v-64v-64h-64zM512 448v64v64h64v-64v-64h-64zM512 0h-64h-64h-64v64h-64v64h-64v64v64v64v64h64v64v64h64v64h64h64v-64h-64v-64v-64h-64v-64v-64v-64v-64h64v-64h64h64v64h64v64v64h64h64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3059" unicode="&#x3059;" 
+d="M448 0h-64h-64v64h64h64v64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64v64h-64h-64h-64h-64v64h64h64h64h64v64h64h64v-64h64h64v-64h-64h-64v-64v-64h64v-64v-64v-64v-64h-64v-64h-64v-64h-64zM512 128v64h-64v-64h64zM384 192v64h64v64v64h-64h-64v-64v-64v-64h64z
+" />
+    <glyph glyph-name="uni305A" unicode="&#x305a;" 
+d="M768 576v64v64h64v-64v-64h-64zM384 0h-64h-64v64h64h64v64h-64h-64h-64v64h-64v64v64v64h64v64h64h64h64v64h-64h-64h-64h-64v64h64h64h64h64v64h64h64v-64h64h64v-64h-64h-64v-64v-64h64v-64v-64v-64v-64h-64v-64h-64v-64h-64zM448 128v64h-64v-64h64zM320 192v64h64
+v64v64h-64h-64v-64v-64v-64h64zM640 576v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni305B" unicode="&#x305b;" 
+d="M704 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64h64h64h64h64v64v64h64h64v-64v-64h64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64h-64v64h-64v64h64h64v-64h64v64h64v64v64h-64h-64h-64h-64h-64v-64v-64
+v-64v-64v-64h64h64h64h64h64h64z" />
+    <glyph glyph-name="uni305C" unicode="&#x305c;" 
+d="M832 576v64v64h64v-64v-64h-64zM640 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h-64v64v64v64v64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64h64h64h64h64v64v64h64h64v-64v-64h64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64h-64v64h-64v64h64h64v-64h64v64h64v64
+v64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64h64h64h64zM704 576v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni305D" unicode="&#x305d;" 
+d="M576 64h64v-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64h64v64h64v64h-64h-64h-64h-64v64h64h64h64h64h64v64h64h64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64v-64h-64v-64h64h64h64v-64h-64h-64h-64h-64v-64h-64h-64v-64h-64v-64v-64h64v-64
+h64h64h64z" />
+    <glyph glyph-name="uni305E" unicode="&#x305e;" 
+d="M832 640v64v64h64v-64v-64h-64zM576 64h64v-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64h64v64h64v64h-64h-64h-64h-64v64h64h64h64h64h64v64h64h64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64h-64v-64h-64v-64h64h64h64v-64h-64h-64h-64h-64v-64
+h-64h-64v-64h-64v-64v-64h64v-64h64h64h64zM704 640v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni305F" unicode="&#x305f;" 
+d="M768 64h64v-64h-64h-64h-64h-64h-64h-64v64h-64v64v64h64v64h64h64v-64h-64v-64v-64h64h64h64h64zM128 0h-64v64h64v64v64h64v64v64v64v64h-64h-64v64h64h64v64h64h64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64v-64v-64h-64v-64h-64zM704 384h64
+v-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64z" />
+    <glyph glyph-name="uni3060" unicode="&#x3060;" 
+d="M768 512v64v64h64v-64v-64h-64zM768 64h64v-64h-64h-64h-64h-64h-64h-64v64h-64v64v64h64v64h64h64v-64h-64v-64v-64h64h64h64h64zM128 0h-64v64h64v64v64h64v64v64v64v64h-64h-64v64h64h64v64h64h64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64
+v-64v-64h-64v-64h-64zM704 384h64v-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64zM640 512v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni3061" unicode="&#x3061;" 
+d="M576 0h-64h-64h-64h-64h-64v64h-64v64h64h64v-64h64h64h64h64v64h64v64v64h-64v64h-64h-64v-64h-64h-64h-64h-64v64v64h64v64h-64h-64h-64v64h64h64h64v64v64h64h64v-64v-64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64h-64v-64h64v64h64h64h64h64v-64h64v-64h64v-64
+v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3062" unicode="&#x3062;" 
+d="M640 576v64v64h64v-64v-64h-64zM512 576v64v64h64v-64v-64h-64zM576 0h-64h-64h-64h-64h-64v64h-64v64h64h64v-64h64h64h64h64v64h64v64v64h-64v64h-64h-64v-64h-64h-64h-64h-64v64v64h64v64h-64h-64h-64v64h64h64h64v64v64h64h64v-64v-64h64h64h64h64h64v-64h-64h-64
+h-64h-64h-64v-64h-64v-64h64v64h64h64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3063" unicode="&#x3063;" 
+d="M512 0h-64h-64h-64v64h64h64h64v64h64v64v64h-64v64h-64h-64h-64h-64v-64h-64h-64v64h64v64h64h64h64h64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3064" unicode="&#x3064;" 
+d="M512 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64v64v64v64h-64v64h-64h-64h-64h-64v-64h-64h-64v-64h-64h-64v64h64v64h64h64v64h64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3065" unicode="&#x3065;" 
+d="M768 512v64v64h64v-64v-64h-64zM512 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64v64v64v64h-64v64h-64h-64h-64h-64v-64h-64h-64v-64h-64h-64v64h64v64h64h64v64h64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64v-64h-64v-64h-64h-64v-64h-64zM640 512v64v64h64v-64v-64
+h-64z" />
+    <glyph glyph-name="uni3066" unicode="&#x3066;" 
+d="M576 64h64v-64h-64h-64h-64v64h-64v64h-64v64v64v64h64v64v64h64v64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64h-64v-64v-64h-64v-64v-64v-64h64v-64h64z" />
+    <glyph glyph-name="uni3067" unicode="&#x3067;" 
+d="M768 320v64v64h64v-64v-64h-64zM640 320v64v64h64v-64v-64h-64zM576 64h64v-64h-64h-64h-64v64h-64v64h-64v64v64v64h64v64v64h64v64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64h-64v-64v-64h-64v-64v-64v-64h64v-64h64z" />
+    <glyph glyph-name="uni3068" unicode="&#x3068;" 
+d="M640 0h-64h-64h-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64v64h64h64v64v64v64v64h64h64v-64v-64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64h-64h-64h-64v-64h-64v-64v-64v-64h64h64h64h64h64h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3069" unicode="&#x3069;" 
+d="M704 512v64v64h64v-64v-64h-64zM576 512v64v64h64v-64v-64h-64zM640 0h-64h-64h-64h-64h-64h-64h-64v64h-64v64v64v64h64v64h64v64h64h64v64v64v64v64h64h64v-64v-64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64h-64h-64h-64v-64h-64v-64v-64v-64h64h64h64h64h64h64v64h64
+h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni306A" unicode="&#x306a;" 
+d="M576 0h-64h-64h-64v64h-64v64v64h64v64h64h64h64v64v64v64h64h64v-64v-64v-64h64h64v-64h64v-64h-64h-64v64h-64v-64v-64h-64v-64h-64zM512 64h64v64v64h-64h-64v-64v-64h64zM128 64h-64v64h64v64v64h64v64v64v64h-64h-64v64h64h64v64h64h64v-64h64h64h64v-64h-64h-64
+h-64v-64v-64v-64h-64v-64v-64h-64v-64h-64zM768 512h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni306B" unicode="&#x306b;" 
+d="M640 0h-64h-64h-64v64h-64v64v64v64v64h64v64v64h64h64v-64v-64h-64v-64v-64v-64v-64h64h64v64h64h64v-64h-64v-64h-64zM256 0h-64v64h-64v64v64h-64v64v64v64v64v64h64v64v64h64h64v-64v-64h-64v-64v-64v-64v-64v-64h64v-64v-64h64v-64h-64zM704 576h64v-64h-64h-64h-64
+h-64h-64h-64h-64v64h64h64h64h64h64h64z" />
+    <glyph glyph-name="uni306C" unicode="&#x306c;" 
+d="M768 0h-64h-64h-64h-64v64h-64v64h-64v-64h-64v-64h-64h-64h-64v64h-64v64v64v64h64v64v64v64v64h64h64v-64h64h64v64v64h64h64v-64v-64h64h64h64v-64h64v-64v-64h64v-64v-64h-64v-64h64v-64h-64zM640 64v64h-64v-64h64zM256 64v64h64v64h-64v64h-64v-64v-64v-64h64z
+M640 192h64v64h-64v64v64h-64h-64v-64v-64h-64v-64v-64h64v64h64h64zM384 256v64v64h-64h-64v-64h64v-64h64z" />
+    <glyph glyph-name="uni306D" unicode="&#x306d;" 
+d="M832 0h-64v64h-64v-64h-64h-64h-64v64h-64v64v64h64v64h64h64v64v64v64h-64h-64v-64h-64v-64h-64v-64v-64v-64v-64v-64h-64h-64v64v64h-64v-64v-64h-64h-64v64v64h64v64v64h64v64h64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64v64h64h64h64h64v-64h64v-64v-64v-64v-64
+v-64h64v-64h64v-64h-64zM640 64v64v64h-64v-64v-64h64z" />
+    <glyph glyph-name="uni306E" unicode="&#x306e;" 
+d="M512 0h-64v64h-64v-64h-64h-64h-64v64h-64v64v64h-64v64v64v64v64h64v64h64v64h64h64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64zM512 64v64h64v64v64h64v64v64v64h-64v64h-64v-64v-64v-64v-64v-64h-64v-64v-64h64zM320 64v64v64h64v64
+v64v64v64v64h-64h-64v-64h-64v-64v-64v-64v-64h64v-64v-64h64z" />
+    <glyph glyph-name="uni306F" unicode="&#x306f;" 
+d="M576 0h-64h-64v64h-64v64v64h64v64h64h64h64v64v64v64h-64h-64h-64v64h64h64h64v64v64h64h64v-64v-64h64h64v-64h-64h-64v-64v-64v-64v-64h64v-64h64v-64h-64h-64v64h-64v-64h-64v-64h-64zM256 0h-64v64h-64v64v64h-64v64v64v64v64h64v64v64h64v64h64h64v-64h-64v-64v-64
+h-64v-64v-64v-64v-64h64v-64v-64h64v-64h-64zM576 64v64v64h-64v-64v-64h64z" />
+    <glyph glyph-name="uni3070" unicode="&#x3070;" 
+d="M832 640v64v64h64v-64v-64h-64zM512 0h-64h-64v64h-64v64v64h64v64h64h64h64v64v64v64h-64h-64h-64v64h64h64h64v64v64h64h64v-64v-64h64h64v-64h-64h-64v-64v-64v-64v-64h64v-64h64v-64h-64h-64v64h-64v-64h-64v-64h-64zM192 0h-64v64h-64v64v64h-64v64v64v64v64h64v64
+v64h64v64h64h64v-64h-64v-64v-64h-64v-64v-64v-64v-64h64v-64v-64h64v-64h-64zM512 64v64v64h-64v-64v-64h64zM704 640v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni3071" unicode="&#x3071;" 
+d="M768 576v64h64v-64h-64zM512 0h-64h-64v64h-64v64v64h64v64h64h64h64v64v64v64h-64h-64h-64v64h64h64h64v64v64h64h64v-64v-64h64h64v-64h-64h-64v-64v-64v-64v-64h64v-64h64v-64h-64h-64v64h-64v-64h-64v-64h-64zM192 0h-64v64h-64v64v64h-64v64v64v64v64h64v64v64h64
+v64h64h64v-64h-64v-64v-64h-64v-64v-64v-64v-64h64v-64v-64h64v-64h-64zM512 64v64v64h-64v-64v-64h64zM832 640v64h64v-64h-64zM768 640h-64v64h64v-64zM832 704h-64v64h64v-64z" />
+    <glyph glyph-name="uni3072" unicode="&#x3072;" 
+d="M448 0h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64h64v64v64h64v64h-64h-64v64h64h64h64h64h64v-64h-64v-64h-64v-64v-64h-64v-64v-64v-64v-64h64v-64h64h64h64h64v64h64v64v64v64v64v64v64v64h64h64h64v-64h64v-64h64v-64h-64h-64v64h-64v-64v-64v-64v-64v-64h-64
+v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3073" unicode="&#x3073;" 
+d="M832 576v64v64h64v-64v-64h-64zM448 0h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64h64v64v64h64v64h-64h-64v64h64h64h64h64h64v-64h-64v-64h-64v-64v-64h-64v-64v-64v-64v-64h64v-64h64h64h64h64v64h64v64v64v64v64v64v64v64h64h64h64v-64h64v-64h64v-64h-64h-64v64
+h-64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64zM704 576v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni3074" unicode="&#x3074;" 
+d="M448 0h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64h64v64v64h64v64h-64h-64v64h64h64h64h64h64v-64h-64v-64h-64v-64v-64h-64v-64v-64v-64v-64h64v-64h64h64h64h64v64h64v64v64v64v64v64v64v64h64h64h64v-64h64v-64h64v-64h-64h-64v64h-64v-64v-64v-64v-64v-64h-64
+v-64h-64v-64h-64zM768 512v64h64v-64h-64zM832 576v64h64v-64h-64zM768 576h-64v64h64v-64zM832 640h-64v64h64v-64z" />
+    <glyph glyph-name="uni3075" unicode="&#x3075;" 
+d="M384 0h-64h-64v64h-64v64h64h64v-64h64v64h64v64v64h-64v64h-64v64h64v64h64h64v-64h-64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h-64zM704 192h-64v64v64h-64v64v64h64h64v-64v-64h64v-64v-64h-64zM128 192h-64v64v64h64v64v64h64h64v-64v-64h-64v-64v-64h-64zM576 576
+h64v-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64z" />
+    <glyph glyph-name="uni3076" unicode="&#x3076;" 
+d="M768 576v64v64h64v-64v-64h-64zM384 0h-64h-64v64h-64v64h64h64v-64h64v64h64v64v64h-64v64h-64v64h64v64h64h64v-64h-64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h-64zM704 192h-64v64v64h-64v64v64h64h64v-64v-64h64v-64v-64h-64zM128 192h-64v64v64h64v64v64h64h64v-64
+v-64h-64v-64v-64h-64zM576 576h64v-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64zM640 576v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni3077" unicode="&#x3077;" 
+d="M704 512v64h64v-64h-64zM384 0h-64h-64v64h-64v64h64h64v-64h64v64h64v64v64h-64v64h-64v64h64v64h64h64v-64h-64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h-64zM704 192h-64v64v64h-64v64v64h64h64v-64v-64h64v-64v-64h-64zM128 192h-64v64v64h64v64v64h64h64v-64v-64
+h-64v-64v-64h-64zM576 576h64v-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64zM768 576v64h64v-64h-64zM704 576h-64v64h64v-64zM768 640h-64v64h64v-64z" />
+    <glyph glyph-name="uni3078" unicode="&#x3078;" 
+d="M704 0h-64v64h-64v64h-64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64h64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni3079" unicode="&#x3079;" 
+d="M640 384v64v64h64v-64v-64h-64zM512 384v64v64h64v-64v-64h-64zM704 0h-64v64h-64v64h-64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64h64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni307A" unicode="&#x307a;" 
+d="M576 320v64h64v-64h-64zM704 0h-64v64h-64v64h-64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64h64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64zM640 384v64h64v-64h-64zM576 384h-64v64h64v-64zM640 448h-64v64h64v-64z" />
+    <glyph glyph-name="uni307B" unicode="&#x307b;" 
+d="M576 0h-64h-64v64h-64v64v64h64v64h64h64h64v64v64h-64h-64h-64v64h64h64h64v64h-64h-64h-64v64h64h64h64v64h64h64v-64h64h64v-64h-64h-64v-64h64h64v-64h-64h-64v-64v-64v-64h64v-64h64v-64h-64h-64v64h-64v-64h-64v-64h-64zM256 0h-64v64h-64v64v64h-64v64v64v64v64
+h64v64v64h64v64h64h64v-64h-64v-64v-64h-64v-64v-64v-64v-64h64v-64v-64h64v-64h-64zM576 64v64v64h-64v-64v-64h64z" />
+    <glyph glyph-name="uni307C" unicode="&#x307c;" 
+d="M832 640v64v64h64v-64v-64h-64zM512 0h-64h-64v64h-64v64v64h64v64h64h64h64v64v64h-64h-64h-64v64h64h64h64v64h-64h-64h-64v64h64h64h64v64h64h64v-64h64h64v-64h-64h-64v-64h64h64v-64h-64h-64v-64v-64v-64h64v-64h64v-64h-64h-64v64h-64v-64h-64v-64h-64zM192 0h-64
+v64h-64v64v64h-64v64v64v64v64h64v64v64h64v64h64h64v-64h-64v-64v-64h-64v-64v-64v-64v-64h64v-64v-64h64v-64h-64zM512 64v64v64h-64v-64v-64h64zM704 640v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni307D" unicode="&#x307d;" 
+d="M512 0h-64h-64v64h-64v64v64h64v64h64h64h64v64v64h-64h-64h-64v64h64h64h64v64h-64h-64h-64v64h64h64h64v64h64h64v-64h64v64h64v-64v-64h-64h-64v-64h64h64v-64h-64h-64v-64v-64v-64h64v-64h64v-64h-64h-64v64h-64v-64h-64v-64h-64zM192 0h-64v64h-64v64v64h-64v64v64
+v64v64h64v64v64h64v64h64h64v-64h-64v-64v-64h-64v-64v-64v-64v-64h64v-64v-64h64v-64h-64zM512 64v64v64h-64v-64v-64h64zM832 640v64h64v-64h-64zM768 640h-64v64h64v-64zM832 704h-64v64h64v-64z" />
+    <glyph glyph-name="uni307E" unicode="&#x307e;" 
+d="M640 0h-64v64h-64v64h-64v-64h-64v-64h-64h-64h-64v64h-64v64v64h64v64h64h64h64v64v64h-64h-64h-64v64h64h64h64v64h-64h-64h-64v64h64h64h64v64h64h64v-64h64h64h64v-64h-64h-64h-64v-64h64h64h64v-64h-64h-64h-64v-64v-64v-64h64v-64h64v-64h64v-64h-64zM320 64v64h64
+v64h-64h-64v-64v-64h64z" />
+    <glyph glyph-name="uni307F" unicode="&#x307f;" 
+d="M512 0h-64v64h64v64h64v64v64h-64h-64v-64h-64v-64v-64h-64v-64h-64h-64h-64v64h-64v64v64h64v64h64v64h64h64h64v64v64h-64h-64h-64v64h64h64h64h64h64v-64v-64v-64h64v64h64h64v-64v-64h64v-64h-64v-64h-64v-64h-64v-64h-64zM256 64v64v64h-64v-64v-64h64zM320 192v64
+h-64v-64h64z" />
+    <glyph glyph-name="uni3080" unicode="&#x3080;" 
+d="M640 0h-64h-64h-64h-64h-64h-64v64h-64v64v64h-64v64h-64v64v64h64v64h64h64h64v64h-64h-64h-64v64h64h64h64v64h64h64v-64h64h64v-64h-64h-64v-64v-64v-64h-64v-64v-64h-64v-64v-64h64h64h64h64h64v64v64h-64v64v64h64h64v-64v-64h64v-64v-64h-64v-64h-64zM256 256v64
+h64v64h-64h-64v-64v-64h64zM768 448h-64v64v64h-64v64h64h64v-64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni3081" unicode="&#x3081;" 
+d="M640 0h-64h-64v64h64h64v64v64h64v64v64v64h-64v64h-64v-64v-64h-64v-64v-64h-64v-64v-64h-64v-64h-64h-64h-64v64h-64v64h-64v64v64v64h64v64v64v64v64h64h64v-64v-64h64h64v64h64h64v64v64v64h64h64v-64v-64v-64h64v-64h64v-64h64v-64v-64v-64h-64v-64v-64h-64v-64h-64
+zM320 64v64h-64v64v64h-64v-64v-64h64v-64h64zM384 256v64h64v64h-64h-64v-64v-64h64z" />
+    <glyph glyph-name="uni3082" unicode="&#x3082;" 
+d="M640 0h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64h-64h-64h-64v64h64h64h64v64h-64h-64h-64v64h64h64h64h64v64h64h64v-64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64h64v-64h64h64h64v64h64v64v64h-64v64v64h64h64v-64v-64h64
+v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3083" unicode="&#x3083;" 
+d="M320 0h-64v64v64v64h-64v64v64h-64h-64v64h64v64v64v64h64h64v-64v-64h64h64v64h64v64h-64v64h64h64v-64h64v-64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64h-64h-64v64h64h64v64v64h-64v-64h-64h-64v64v64h-64v-64h-64h-64v-64v-64v-64h64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni3084" unicode="&#x3084;" 
+d="M320 0h-64v64v64v64v64h-64v64v64h-64h-64v64h64v64v64h-64v64v64h64h64v-64v-64h64v-64h64h64v64h64v64h-64v64h64h64v-64h64v-64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h-64h-64h-64v64h64h64v64h64v64v64h-64v-64h-64h-64v64v64h-64v-64h-64h-64v-64v-64v-64
+h64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni3085" unicode="&#x3085;" 
+d="M384 0h-64h-64v64h64h64v64h-64v64h-64v64h-64v-64h-64h-64v64v64v64v64v64h64v64h64h64v-64h-64v-64h64v64h64h64h64v64h64h64v-64h64h64v-64h64v-64v-64v-64v-64v-64h-64v-64h-64h-64h-64h-64v-64h-64zM640 128v64v64v64v64v64h-64v-64v-64v-64v-64v-64h64zM448 192v64
+v64v64v64h-64h-64v-64h-64v-64v-64h64h64v-64h64z" />
+    <glyph glyph-name="uni3086" unicode="&#x3086;" 
+d="M384 0h-64v64h64v64h-64v64h-64v64h64h64v-64h64v64v64v64v64v64h-64h-64v-64h-64v-64v-64h-64v-64h-64h-64v64v64v64v64v64v64h64v64h64h64v-64h-64v-64v-64h64v64h64h64h64v64h64h64v-64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64v-64h-64h-64h-64v-64h-64v-64h-64
+zM640 192v64h64v64v64v64h-64v64h-64v-64v-64v-64v-64v-64h64z" />
+    <glyph glyph-name="uni3087" unicode="&#x3087;" 
+d="M320 0h-64h-64v64h-64v64v64h64v64h64h64h64v64v64v64v64v64h64h64v-64v-64h64h64h64v-64h-64h-64h-64v-64v-64v-64h64v-64h64v-64h-64h-64v64h-64v-64h-64v-64h-64zM320 64v64h64v64h-64h-64v-64v-64h64z" />
+    <glyph glyph-name="uni3088" unicode="&#x3088;" 
+d="M384 0h-64h-64h-64v64h-64v64h-64v64v64v64h64v64h64h64h64h64v64v64v64v64v64h64h64v-64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64v-64v-64h64h64v-64h64v-64h64v-64v-64h-64h-64v64v64h-64v64h-64v-64v-64v-64h-64v-64h-64zM320 64h64v64v64v64v64h-64h-64h-64v-64
+v-64v-64h64v-64h64z" />
+    <glyph glyph-name="uni3089" unicode="&#x3089;" 
+d="M576 0h-64h-64h-64v64h64h64h64v64h64v64v64v64h-64v64h-64h-64h-64v-64h-64h-64h-64v-64h-64h-64v64v64h64v64v64h64v64h64h64v-64h-64v-64v-64h64v64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64v-64h-64zM768 448h-64v64h-64h-64v64h-64h-64h-64v64h64h64
+h64h64v-64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni308A" unicode="&#x308a;" 
+d="M576 0h-64h-64h-64v64h64h64h64v64h64v64v64v64v64h-64v64h-64h-64h-64v-64h-64v-64h-64v-64h-64h-64v64v64v64h64v64v64h64v64h64h64v-64h-64v-64h64h64h64h64h64v-64h64v-64h64v-64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni308B" unicode="&#x308b;" 
+d="M576 0h-64h-64h-64h-64h-64v64h-64v64v64h64v64h64h64h64v-64h64v-64h64h64v64v64v64h-64v64h-64h-64h-64h-64v-64h-64h-64v64h64v64h64v64h64v64h-64h-64h-64h-64v64h64h64h64h64h64h64h64v-64h-64v-64h-64v-64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64v-64h-64
+zM384 64h64v64h-64v64h-64v-64v-64h64z" />
+    <glyph glyph-name="uni308C" unicode="&#x308c;" 
+d="M768 0h-64h-64v64h-64v64v64v64h64v64v64v64v64h-64h-64v-64h-64v-64h-64v-64h-64v-64v-64v-64v-64v-64h-64h-64v64v64h-64v-64h-64h-64v64h64v64h64v64h64v64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64v64h64v64h64h64h64h64v-64h64v-64v-64v-64v-64h-64v-64v-64v-64
+h64v64h64h64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni308D" unicode="&#x308d;" 
+d="M576 0h-64h-64h-64h-64h-64v64h-64v64h64h64v-64h64h64h64h64v64h64v64v64v64h-64v64h-64h-64h-64h-64v-64h-64h-64v64h64v64h64v64h64v64h-64h-64h-64h-64v64h64h64h64h64h64h64h64v-64h-64v-64h-64v-64h64h64h64v-64h64v-64h64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni308E" unicode="&#x308e;" 
+d="M640 0h-64h-64h-64v64h64h64h64v64v64h64v64v64v64v64h-64v64h-64h-64v-64h-64v-64h-64v-64h-64v-64v-64v-64v-64v-64h-64h-64v64v64h-64v-64h-64h-64v64h64v64h64v64h64v64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64v64h64v64h64h64h64h64v-64h64v-64h64v-64v-64v-64
+v-64h-64v-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni308F" unicode="&#x308f;" 
+d="M640 0h-64h-64h-64v64h64h64h64v64h64v64v64v64v64v64h-64v64h-64h-64h-64v-64h-64h-64v-64v-64v-64v-64v-64v-64v-64h-64h-64v64v64h-64v-64v-64h-64h-64v64v64h64v64v64h64v64v64h64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64v64h64h64h64h64h64v-64h64v-64h64v-64
+v-64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni3090" unicode="&#x3090;" 
+d="M640 0h-64h-64h-64v64h-64v64v64h-64v-64v-64h-64v-64h-64h-64h-64v64h-64v64v64v64v64h64v64h64v64h64h64v64h64h64h64v64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64v-64v-64h64h64v-64h64v-64h64v-64v-64v-64v-64h-64v-64h-64v-64h-64zM576 64h64v64h-64v64h-64
+v-64v-64h64zM192 64v64v64h64v64h64v64h64v64v64h-64v-64h-64h-64v-64h-64v-64v-64v-64v-64h64zM704 192v64v64v64h-64v64h-64h-64v-64v-64h-64v-64h-64v-64h64v64h64h64h64v-64h64z" />
+    <glyph glyph-name="uni3091" unicode="&#x3091;" 
+d="M768 0h-64v64h-64v64h-64v-64h-64v-64h-64h-64h-64v64h-64v64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h-64v64h64v64h-64h-64v64h64v64h64h64v64h-64h-64v64h64h64h64h64h64h64v-64h-64v-64h64h64v-64h64v-64h64v-64h-64v-64h-64h-64v-64h-64h-64h-64v-64h64v-64
+h64v64h64v64h64h64h64v-64h64v-64h64v-64h-64zM512 320h64v64h-64v64h-64h-64h-64h-64h-64v-64h64h64h64v-64h64h64zM320 256v64h-64v-64h64z" />
+    <glyph glyph-name="uni3092" unicode="&#x3092;" 
+d="M768 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h-64v64v64h64v64h64v64h64v64h-64h-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h-64h-64v64h64h64h64v64h64v64h64h64v-64h-64v-64h64h64h64h64h64v-64h-64h-64h-64v-64h64h64h64v-64h-64v-64v-64v-64h-64h-64
+v64v64h-64v-64h-64v-64h-64v-64v-64h64h64h64h64h64h64zM512 384v64h-64v-64h64z" />
+    <glyph glyph-name="uni3093" unicode="&#x3093;" 
+d="M768 0h-64h-64h-64v64h-64v64v64v64v64v64h-64v-64h-64h-64v-64h-64v-64v-64h-64v-64v-64h-64h-64v64v64h64v64v64h64v64v64h64v64v64h64v64v64h64v64h64h64v-64h-64v-64v-64h-64v-64h64h64h64v-64h64v-64v-64v-64v-64v-64h64h64v64v64h64h64v-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni309B" unicode="&#x309b;" 
+d="M256 448v64v64h64v-64v-64h-64zM128 448v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni309C" unicode="&#x309c;" 
+d="M192 384v64h64v-64h-64zM256 448v64h64v-64h-64zM192 448h-64v64h64v-64zM256 512h-64v64h64v-64z" />
+    <glyph glyph-name="uni309D" unicode="&#x309d;" 
+d="M576 128h-64h-64h-64h-64h-64v64h64h64h64h64v64h-64v64h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h64v-64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni309E" unicode="&#x309e;" 
+d="M640 384v64v64h64v-64v-64h-64zM576 128h-64h-64h-64h-64h-64v64h64h64h64h64v64h-64v64h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h64v-64h64v-64v-64h-64zM512 384v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni30A1" unicode="&#x30a1;" 
+d="M256 0h-64v64h64v64v64h64v64v64v64v64h64h64v-64v-64v-64v-64h-64v-64v-64h-64v-64h-64zM576 256h-64v64h64v64h64v64v64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30A2" unicode="&#x30a2;" 
+d="M192 0h-64v64h64v64h64v64v64h64v64v64v64v64h64h64v-64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64zM576 256h-64v64h64v64v64h64v64v64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64h-64v-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30A3" unicode="&#x30a3;" 
+d="M448 0h-64v64v64v64v64v64h-64v-64h-64h-64h-64h-64v64h64h64h64v64h64h64h64v64h64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64h-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30A4" unicode="&#x30a4;" 
+d="M448 0h-64v64v64v64v64v64v64h-64h-64v-64h-64h-64h-64v64h64h64v64h64h64h64v64h64h64v64h64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64h-64v-64h-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30A5" unicode="&#x30a5;" 
+d="M448 0h-64h-64v64h64h64v64h64v64h64v64v64h-64h-64h-64v-64h-64h-64v64v64h64h64h64v64h64v-64h64h64h64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30A6" unicode="&#x30a6;" 
+d="M512 0h-64h-64h-64v64h64h64h64v64h64v64v64h64v64v64v64v64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64h-64h-64v64v64v64v64v64h64h64h64h64v64v64h64h64v-64v-64h64h64h64h64v-64v-64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30A7" unicode="&#x30a7;" 
+d="M640 128h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64v64v64v64h-64h-64v64h64h64h64h64h64h64v-64h-64h-64v-64v-64v-64h64h64z" />
+    <glyph glyph-name="uni30A8" unicode="&#x30a8;" 
+d="M704 128h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64v64v64v64v64v64h-64h-64h-64v64h64h64h64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64z" />
+    <glyph glyph-name="uni30A9" unicode="&#x30a9;" 
+d="M512 0h-64v64v64v64h-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64v64h-64h-64h-64v64h64h64h64h64v64v64h64h64v-64v-64h64h64v-64h-64h-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30AA" unicode="&#x30aa;" 
+d="M576 0h-64v64v64v64v64v64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64v64h64v64h64v64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64v64v64h64h64v-64v-64h64h64v-64h-64h-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30AB" unicode="&#x30ab;" 
+d="M576 0h-64h-64v64h64h64v64v64h64v64v64v64v64h-64h-64h-64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64v64h64v64v64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64h64h64h64h64v-64v-64v-64v-64v-64h-64v-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30AC" unicode="&#x30ac;" 
+d="M704 576v64v64h64v-64v-64h-64zM576 576v64v64h64v-64v-64h-64zM576 0h-64h-64v64h64h64v64v64h64v64v64v64v64h-64h-64h-64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64v64h64v64v64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64h64h64h64h64v-64
+v-64v-64v-64v-64h-64v-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30AD" unicode="&#x30ad;" 
+d="M512 0h-64v64v64v64v64h-64h-64h-64h-64v64h64h64h64v64v64h-64h-64h-64h-64v64h64h64h64v64h-64v64h64h64v-64h64v-64h64h64h64v-64h-64h-64v-64v-64h64h64h64v-64h-64h-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30AE" unicode="&#x30ae;" 
+d="M640 576v64v64h64v-64v-64h-64zM512 576v64v64h64v-64v-64h-64zM512 0h-64v64v64v64v64h-64h-64h-64h-64v64h64h64h64v64v64h-64h-64h-64h-64v64h64h64h64v64h-64v64h64h64v-64h64v-64h64h64h64v-64h-64h-64v-64v-64h64h64h64v-64h-64h-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30AF" unicode="&#x30af;" 
+d="M448 0h-64h-64h-64h-64h-64v64h64h64h64h64h64v64h64h64v64h64v64v64v64v64h-64h-64h-64h-64h-64v-64h-64v-64h-64h-64h-64v64h64h64v64h64v64v64h64v64v64h64h64v-64v-64h-64v-64h64h64h64h64h64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30B0" unicode="&#x30b0;" 
+d="M704 576v64v64h64v-64v-64h-64zM576 576v64v64h64v-64v-64h-64zM448 0h-64h-64h-64h-64h-64v64h64h64h64h64h64v64h64h64v64h64v64v64v64v64h-64h-64h-64h-64h-64v-64h-64v-64h-64h-64h-64v64h64h64v64h64v64v64h64v64v64h64h64v-64v-64h-64v-64h64h64h64h64h64h64v-64
+v-64v-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30B1" unicode="&#x30b1;" 
+d="M384 0h-64h-64h-64h-64h-64v64h64h64h64h64h64v64h64h64v64h64v64v64v64v64h-64h-64h-64h-64v-64h-64v-64h-64h-64h-64v64h64h64v64h64v64v64h64v64v64h64h64v-64v-64h-64v-64h64h64h64h64h64h64h64v-64h-64h-64v-64v-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30B2" unicode="&#x30b2;" 
+d="M768 576v64v64h64v-64v-64h-64zM640 576v64v64h64v-64v-64h-64zM384 0h-64h-64h-64h-64h-64v64h64h64h64h64h64v64h64h64v64h64v64v64v64v64h-64h-64h-64h-64v-64h-64v-64h-64h-64h-64v64h64h64v64h64v64v64h64v64v64h64h64v-64v-64h-64v-64h64h64h64h64h64h64h64v-64
+h-64h-64v-64v-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30B3" unicode="&#x30b3;" 
+d="M704 0h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64v64v64v64v64v64v64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30B4" unicode="&#x30b4;" 
+d="M768 576v64v64h64v-64v-64h-64zM640 576v64v64h64v-64v-64h-64zM704 0h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64v64v64v64v64v64v64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64h-64z
+" />
+    <glyph glyph-name="uni30B5" unicode="&#x30b5;" 
+d="M384 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h64v64v64v64h-64h-64h-64h-64v-64v-64h-64h-64v64v64h-64h-64v64h64h64v64v64v64h64h64v-64v-64v-64h64h64h64h64v64v64v64h64h64v-64v-64v-64h64h64v-64h-64h-64v-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30B6" unicode="&#x30b6;" 
+d="M832 640v64v64h64v-64v-64h-64zM384 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h64v64v64v64h-64h-64h-64h-64v-64v-64h-64h-64v64v64h-64h-64v64h64h64v64v64v64h64h64v-64v-64v-64h64h64h64h64v64v64v64h64h64v-64v-64v-64h64h64v-64h-64h-64v-64v-64v-64h-64v-64
+h-64v-64h-64h-64v-64h-64zM704 640v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni30B7" unicode="&#x30b7;" 
+d="M448 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h64v64v64h64v64v64h64h64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM320 256h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h-64zM512 448h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni30B8" unicode="&#x30b8;" 
+d="M768 576v64v64h64v-64v-64h-64zM640 576v64v64h64v-64v-64h-64zM448 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h64v64v64h64v64v64h64h64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM320 256h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h-64z
+M512 448h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni30B9" unicode="&#x30b9;" 
+d="M768 0h-64v64h-64v64h-64v64h-64v-64h-64v-64h-64h-64v-64h-64h-64h-64h-64v64h64h64h64v64h64h64v64h64v64v64h64v64v64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64v-64v-64v-64v-64h-64v-64h64v-64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni30BA" unicode="&#x30ba;" 
+d="M832 512v64v64h64v-64v-64h-64zM704 512v64v64h64v-64v-64h-64zM768 0h-64v64h-64v64h-64v64h-64v-64h-64v-64h-64h-64v-64h-64h-64h-64h-64v64h64h64h64v64h64h64v64h64v64v64h64v64v64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64v-64v-64v-64v-64h-64v-64
+h64v-64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni30BB" unicode="&#x30bb;" 
+d="M640 64h64v-64h-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64h-64h-64v64h64h64v64v64v64h64h64v-64v-64v-64h64h64v64h64h64h64h64h64h64v-64v-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64v64h-64h-64h-64v-64h-64h-64h-64v-64v-64v-64v-64h64v-64h64h64h64
+h64z" />
+    <glyph glyph-name="uni30BC" unicode="&#x30bc;" 
+d="M768 576v64v64h64v-64v-64h-64zM640 576v64v64h64v-64v-64h-64zM640 64h64v-64h-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64h-64h-64v64h64h64v64v64v64h64h64v-64v-64v-64h64h64v64h64h64h64h64h64h64v-64v-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64v64
+h-64h-64h-64v-64h-64h-64h-64v-64v-64v-64v-64h64v-64h64h64h64h64z" />
+    <glyph glyph-name="uni30BD" unicode="&#x30bd;" 
+d="M384 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h64v64v64h64v64v64v64v64h64h64v-64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM384 320h-64v64h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni30BE" unicode="&#x30be;" 
+d="M768 640v64v64h64v-64v-64h-64zM640 640v64v64h64v-64v-64h-64zM384 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h64v64v64h64v64v64v64v64h64h64v-64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM384 320h-64v64h-64v64h-64v64h-64v64h64h64v-64h64
+v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni30BF" unicode="&#x30bf;" 
+d="M448 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h-64h-64v64h-64h-64v64h64h64h64v-64h64h64v64v64v64h-64h-64h-64h-64h-64v-64h-64v-64h-64h-64h-64v64h64h64v64h64v64v64h64v64v64h64h64v-64v-64h-64v-64h64h64h64h64h64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64
+h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30C0" unicode="&#x30c0;" 
+d="M768 576v64v64h64v-64v-64h-64zM640 576v64v64h64v-64v-64h-64zM448 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h-64h-64v64h-64h-64v64h64h64h64v-64h64h64v64v64v64h-64h-64h-64h-64h-64v-64h-64v-64h-64h-64h-64v64h64h64v64h64v64v64h64v64v64h64h64v-64v-64h-64
+v-64h64h64h64h64h64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30C1" unicode="&#x30c1;" 
+d="M256 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64v64h-64h-64h-64h-64v64h64h64h64h64v64v64h-64h-64h-64v64h64h64h64h64v64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30C2" unicode="&#x30c2;" 
+d="M832 448v64v64h64v-64v-64h-64zM704 448v64v64h64v-64v-64h-64zM256 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64v64h-64h-64h-64h-64v64h64h64h64h64v64v64h-64h-64h-64v64h64h64h64h64v64h64h64h64v-64h-64h-64v-64v-64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64v-64
+h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30C3" unicode="&#x30c3;" 
+d="M448 0h-64h-64v64h64h64v64h64h64v64h64v64v64h64v64v64v64h64h64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM320 256h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h-64zM512 384h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni30C4" unicode="&#x30c4;" 
+d="M320 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h64v64v64h64v64v64h64v64v64v64v64h64h64v-64v-64v-64v-64h-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM192 256h-64v64v64h-64v64v64h64h64v-64v-64h64v-64v-64h-64zM448 384h-64v64v64h-64v64v64h64
+h64v-64v-64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni30C5" unicode="&#x30c5;" 
+d="M768 640v64v64h64v-64v-64h-64zM640 640v64v64h64v-64v-64h-64zM320 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h64v64v64h64v64v64h64v64v64h64h64v-64v-64h-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM192 256h-64v64v64h-64v64v64h64h64v-64v-64
+h64v-64v-64h-64zM448 384h-64v64v64h-64v64v64h64h64v-64v-64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni30C6" unicode="&#x30c6;" 
+d="M320 0h-64h-64h-64v64h64h64h64v64h64v64v64v64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64h-64v-64h-64v-64h-64zM704 576h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64z" />
+    <glyph glyph-name="uni30C7" unicode="&#x30c7;" 
+d="M768 576v64v64h64v-64v-64h-64zM320 0h-64h-64h-64v64h64h64h64v64h64v64v64v64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64h-64v-64h-64v-64h-64zM576 576h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64
+h64h64h64h64zM640 576v64v64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni30C8" unicode="&#x30c8;" 
+d="M256 0h-64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64h64h64h64v-64h64h64v-64h64v-64h-64h-64v64h-64h-64v64h-64h-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30C9" unicode="&#x30c9;" 
+d="M640 448v64v64h64v-64v-64h-64zM512 448v64v64h64v-64v-64h-64zM256 0h-64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64h64h64h64v-64h64h64v-64h64v-64h-64h-64v64h-64h-64v64h-64h-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30CA" unicode="&#x30ca;" 
+d="M320 0h-64h-64v64h64h64v64h64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64v64v64v64h64h64v-64v-64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30CB" unicode="&#x30cb;" 
+d="M704 128h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64zM640 576h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64z" />
+    <glyph glyph-name="uni30CC" unicode="&#x30cc;" 
+d="M256 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64h-64v64h-64h-64v64h64h64h64v-64h64v64v64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64v-64v-64v-64v-64h-64v-64h64h64v-64h64h64v-64h-64h-64h-64v64h-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30CD" unicode="&#x30cd;" 
+d="M448 0h-64v64v64v64v64h-64v-64h-64h-64h-64v64h64h64v64h64h64v64h64v64h64v64v64h-64h-64h-64h-64h-64v64h64h64h64v64h64v-64h64h64h64v-64v-64v-64h-64v-64h-64v-64v-64v-64v-64v-64v-64h-64zM704 192h-64v64h-64v64h64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni30CE" unicode="&#x30ce;" 
+d="M320 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h64v64h64v64v64h64v64v64v64v64h64h64v-64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30CF" unicode="&#x30cf;" 
+d="M768 0h-64v64h-64v64h-64v64v64v64h-64v64v64v64h64h64v-64v-64v-64h64v-64v-64v-64h64v-64h64v-64h-64zM192 0h-64h-64v64h64h64v64h64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30D0" unicode="&#x30d0;" 
+d="M768 512v64v64h64v-64v-64h-64zM768 0h-64v64h-64v64h-64v64v64v64h-64v64v64v64h64h64v-64v-64v-64h64v-64v-64v-64h64v-64h64v-64h-64zM192 0h-64h-64v64h64h64v64h64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64zM640 512v64v64h64v-64v-64
+h-64z" />
+    <glyph glyph-name="uni30D1" unicode="&#x30d1;" 
+d="M704 448v64h64v-64h-64zM768 0h-64v64h-64v64h-64v64v64v64h-64v64v64v64h64h64v-64v-64v-64h64v-64v-64v-64h64v-64h64v-64h-64zM192 0h-64h-64v64h64h64v64h64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64zM768 512v64h64v-64h-64zM704 512
+h-64v64h64v-64zM768 576h-64v64h64v-64z" />
+    <glyph glyph-name="uni30D2" unicode="&#x30d2;" 
+d="M704 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64h64h64v64h64h64h64v-64h-64h-64v-64h-64h-64v-64h-64h-64h-64v-64v-64v-64h64v-64h64h64h64h64h64h64z" />
+    <glyph glyph-name="uni30D3" unicode="&#x30d3;" 
+d="M704 576v64v64h64v-64v-64h-64zM576 576v64v64h64v-64v-64h-64zM704 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64h64h64v64h64h64h64v-64h-64h-64v-64h-64h-64v-64h-64h-64h-64v-64v-64v-64h64
+v-64h64h64h64h64h64h64z" />
+    <glyph glyph-name="uni30D4" unicode="&#x30d4;" 
+d="M640 576v64h64v-64h-64zM704 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64h64h64v64h64h64v64h64h64h64v-64h-64h-64v-64h-64h-64v-64h-64h-64h-64v-64v-64v-64h64v-64h64h64h64h64h64h64zM704 640v64h64
+v-64h-64zM640 640h-64v64h64v-64zM704 704h-64v64h64v-64z" />
+    <glyph glyph-name="uni30D5" unicode="&#x30d5;" 
+d="M320 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64h64v64v64h64v64v64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30D6" unicode="&#x30d6;" 
+d="M832 640v64v64h64v-64v-64h-64zM704 640v64v64h64v-64v-64h-64zM320 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64h64v64v64h64v64v64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v-64
+h-64z" />
+    <glyph glyph-name="uni30D7" unicode="&#x30d7;" 
+d="M320 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64h64v64v64h64v64v64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM768 576v64h64v-64h-64zM832 640v64h64v-64h-64zM768 640
+h-64v64h64v-64zM832 704h-64v64h64v-64z" />
+    <glyph glyph-name="uni30D8" unicode="&#x30d8;" 
+d="M832 128h-64v64h-64v64h-64v64h-64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni30D9" unicode="&#x30d9;" 
+d="M768 576v64v64h64v-64v-64h-64zM640 576v64v64h64v-64v-64h-64zM832 128h-64v64h-64v64h-64v64h-64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni30DA" unicode="&#x30da;" 
+d="M704 512v64h64v-64h-64zM832 128h-64v64h-64v64h-64v64h-64v64h-64v64h-64v64h-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64v64h64v64h64v64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64zM768 576v64h64v-64h-64zM704 576h-64v64h64
+v-64zM768 640h-64v64h64v-64z" />
+    <glyph glyph-name="uni30DB" unicode="&#x30db;" 
+d="M448 0h-64v64v64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64v64v64h64h64v-64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64h-64zM704 64h-64v64v64h-64v64v64h64h64v-64v-64h64v-64v-64h-64zM192 64h-64v64v64h64v64v64h64h64v-64v-64h-64v-64v-64
+h-64z" />
+    <glyph glyph-name="uni30DC" unicode="&#x30dc;" 
+d="M704 512v64v64h64v-64v-64h-64zM576 512v64v64h64v-64v-64h-64zM448 0h-64v64v64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64v64v64h64h64v-64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64h-64zM704 64h-64v64v64h-64v64v64h64h64v-64v-64h64v-64
+v-64h-64zM192 64h-64v64v64h64v64v64h64h64v-64v-64h-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30DD" unicode="&#x30dd;" 
+d="M640 512v64h64v-64h-64zM448 0h-64v64v64v64v64v64v64h-64h-64h-64h-64v64h64h64h64h64v64v64h64h64v-64v-64h64h64h64h64v-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64h-64zM704 64h-64v64v64h-64v64v64h64h64v-64v-64h64v-64v-64h-64zM192 64h-64v64v64h64v64v64h64
+h64v-64v-64h-64v-64v-64h-64zM704 576v64h64v-64h-64zM640 576h-64v64h64v-64zM704 640h-64v64h64v-64z" />
+    <glyph glyph-name="uni30DE" unicode="&#x30de;" 
+d="M640 0h-64v64v64h-64v64v64h-64v64h-64h-64v64h-64h-64v64h64h64h64v-64h64h64v-64h64v64v64h64v64v64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64h-64v-64v-64h-64v-64v-64h64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30DF" unicode="&#x30df;" 
+d="M640 128h64v-64h-64h-64h-64h-64h-64h-64v64h-64h-64h-64v64h64h64h64h64v-64h64h64h64h64zM576 384h64v-64h-64h-64h-64h-64v64h-64h-64v64h64h64h64v-64h64h64zM640 576h64v-64h-64h-64h-64h-64v64h-64h-64h-64h-64v64h64h64h64h64h64v-64h64h64z" />
+    <glyph glyph-name="uni30E0" unicode="&#x30e0;" 
+d="M704 -64h-64v64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64h64v64v64h64v64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64v-64h-64v-64v-64h-64v-64v-64v-64h64h64h64h64h64h64h64v64h-64v64v64h-64v64h64h64v-64h64v-64v-64h64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30E1" unicode="&#x30e1;" 
+d="M192 0h-64h-64v64h64h64v64h64h64v64h64v64h64v64h-64h-64v64h-64h-64v64h64h64h64v-64h64h64v64v64v64v64h64h64v-64v-64v-64v-64h-64v-64h64v-64h64h64v-64h64v-64h-64h-64v64h-64h-64v64h-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30E2" unicode="&#x30e2;" 
+d="M768 64h64v-64h-64h-64h-64h-64h-64h-64v64h-64v64h-64v64v64v64h-64h-64h-64h-64v64h64h64h64h64v64v64v64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64v-64v-64v-64h64h64h64h64h64h64v-64h-64h-64h-64h-64h-64h-64v-64v-64v-64h64v-64h64
+h64h64h64z" />
+    <glyph glyph-name="uni30E3" unicode="&#x30e3;" 
+d="M320 0h-64v64v64v64v64h-64v64v64h-64h-64v64h64h64v64h-64v64v64h64h64v-64v-64h64h64h64v64h64h64h64h64h64v-64v-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64v64h-64h-64v-64h-64h-64h-64v-64v-64v-64h64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30E4" unicode="&#x30e4;" 
+d="M384 0h-64v64v64v64v64h-64v64v64v64h-64h-64h-64v64h64h64v64v64h-64v64v64h64h64v-64v-64h64v-64h64h64v64h64h64v64h64h64h64h64v-64v-64v-64v-64h-64v-64h-64v-64h-64h-64v64h64v64h64v64v64v64h-64v-64h-64h-64v-64h-64h-64h-64v-64h64v-64v-64v-64h64v-64v-64v-64
+v-64h-64z" />
+    <glyph glyph-name="uni30E5" unicode="&#x30e5;" 
+d="M704 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64v64v64h64v64v64h64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64v-64v-64h-64v-64v-64h-64v-64v-64h64h64z" />
+    <glyph glyph-name="uni30E6" unicode="&#x30e6;" 
+d="M768 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64v64v64v64h64v64v64h64v64v64h64v64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64h64v-64v-64h-64v-64v-64h-64v-64v-64h-64v-64v-64v-64h64h64z" />
+    <glyph glyph-name="uni30E7" unicode="&#x30e7;" 
+d="M640 0h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64v64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64v64v64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30E8" unicode="&#x30e8;" 
+d="M640 0h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64v64v64v64v64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64v64v64v64v64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30E9" unicode="&#x30e9;" 
+d="M384 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64h64v64v64v64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM640 704h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64
+h64z" />
+    <glyph glyph-name="uni30EA" unicode="&#x30ea;" 
+d="M448 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h64v64v64h64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM256 320h-64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64h-64z" />
+    <glyph glyph-name="uni30EB" unicode="&#x30eb;" 
+d="M576 0h-64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64zM192 0h-64h-64v64h64h64v64h64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30EC" unicode="&#x30ec;" 
+d="M384 0h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h64h64v64h64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30ED" unicode="&#x30ed;" 
+d="M704 0h-64h-64h-64h-64h-64h-64h-64h-64h-64v64v64v64v64v64v64v64v64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64v-64v-64v-64v-64h-64zM576 64h64v64v64v64v64v64v64v64h-64h-64h-64h-64h-64h-64v-64v-64v-64v-64v-64v-64v-64h64h64h64h64h64z" />
+    <glyph glyph-name="uni30EE" unicode="&#x30ee;" 
+d="M384 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64h64v64v64v64v64h-64h-64h-64h-64h-64h-64v-64v-64v-64h-64h-64v64v64v64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30EF" unicode="&#x30ef;" 
+d="M384 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64v64h64v64v64v64v64h-64h-64h-64h-64h-64h-64h-64v-64v-64v-64h-64h-64v64v64v64v64h64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30F0" unicode="&#x30f0;" 
+d="M640 -64h-64v64v64v64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64v64v64v64v64v64h-64v64h64h64h64h64h64h64h64h64v64v64h64h64v-64v-64h64v-64h-64v-64v-64v-64v-64v-64h64h64v-64h-64h-64v-64v-64v-64h-64zM512 192h64v64v64v64v64v64h-64h-64h-64h-64h-64v-64
+v-64v-64v-64v-64h64h64h64h64z" />
+    <glyph glyph-name="uni30F1" unicode="&#x30f1;" 
+d="M704 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64h64h64h64h64zM640 320h-64h-64v64h64h64v64h64v64v64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64h64h64
+v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30F2" unicode="&#x30f2;" 
+d="M320 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64v64h64v64v64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30F3" unicode="&#x30f3;" 
+d="M384 0h-64h-64h-64h-64v64h64h64h64h64v64h64h64v64h64v64h64v64h64v64v64h64v64v64v64h64h64v-64v-64v-64h-64v-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v-64h-64zM448 448h64v-64h-64h-64h-64v64h-64h-64v64h-64h-64v64h64h64h64v-64h64h64v-64h64z" />
+    <glyph glyph-name="uni30F4" unicode="&#x30f4;" 
+d="M768 640v64v64h64v-64v-64h-64zM640 640v64v64h64v-64v-64h-64zM384 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64h64v64v64v64v64h-64h-64h-64h-64h-64h-64v-64v-64v-64h-64h-64v64v64v64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64
+v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30F5" unicode="&#x30f5;" 
+d="M576 0h-64h-64h-64v64h64h64h64v64h64v64v64v64v64h-64h-64h-64h-64v-64v-64v-64h-64v-64v-64h-64v-64h-64h-64v64h64v64v64h64v64v64v64h-64h-64v64h64h64h64v64v64v64h64h64v-64v-64v-64h64h64h64h64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30F6" unicode="&#x30f6;" 
+d="M320 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64v64v64h-64h-64h-64v-64h-64v-64h-64h-64h-64v64h64h64v64h64v64h64v64h64v64v64h64h64v-64v-64h-64v-64h64h64h64h64h64h64v-64h-64h-64h-64v-64v-64v-64h-64v-64h-64v-64h-64h-64v-64h-64z" />
+    <glyph glyph-name="uni30F7" unicode="&#x30f7;" 
+d="M768 640v64h64v-64h-64zM640 640v64h64v-64h-64zM384 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64h64v64v64v64v64h-64h-64h-64h-64h-64h-64v-64v-64v-64h-64h-64v64v64v64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64v-64h-64h-64v-64
+h-64zM768 704h-64v64h64v-64zM640 704h-64v64h64v-64z" />
+    <glyph glyph-name="uni30F8" unicode="&#x30f8;" 
+d="M832 640v64h64v-64h-64zM640 -64h-64v64v64v64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64v64v64v64v64v64h-64v64h64h64h64h64h64h64h64h64v64v64h64v-64h64v-64h64v-64h-64v-64v-64v-64v-64v-64h64h64v-64h-64h-64v-64v-64v-64h-64zM512 192h64v64v64v64v64v64h-64
+h-64h-64h-64h-64v-64v-64v-64v-64v-64h64h64h64h64zM704 640v64h64v-64h-64zM832 704h-64v64h64v-64zM704 704h-64v64h64v-64z" />
+    <glyph glyph-name="uni30F9" unicode="&#x30f9;" 
+d="M832 640v64h64v-64h-64zM640 64h64v-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64v64v64v64v64v64v64h64h64v-64v-64v-64v-64v-64v-64h64h64h64h64zM576 320h-64h-64v64h64h64v64h64v64v64h-64h-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64
+h64h64h64h64h64h64h64v64h64v-64v-64v-64v-64h-64v-64h-64v-64h-64zM832 704h-64v64h64v-64zM704 704h-64v64h64v-64z" />
+    <glyph glyph-name="uni30FA" unicode="&#x30fa;" 
+d="M768 640v64h64v-64h-64zM640 640v64h64v-64h-64zM320 0h-64h-64h-64v64h64h64h64v64h64h64v64h64v64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64v64h64v64v64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64h64h64h64v-64v-64v-64h-64v-64v-64h-64v-64h-64
+v-64h-64v-64h-64h-64v-64h-64zM768 704h-64v64h64v-64zM640 704h-64v64h64v-64z" />
+    <glyph glyph-name="uni30FB" unicode="&#x30fb;" 
+d="M448 320h-64v64v64h64h64v-64v-64h-64z" />
+    <glyph glyph-name="uni30FC" unicode="&#x30fc;" 
+d="M640 384h64v-64h-64h-64h-64h-64h-64h-64h-64h-64v64h64h64h64h64h64h64h64z" />
+    <glyph glyph-name="uni30FD" unicode="&#x30fd;" 
+d="M640 192h-64v64h-64v64h-64v64h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uni30FE" unicode="&#x30fe;" 
+d="M704 512v64v64h64v-64v-64h-64zM576 512v64v64h64v-64v-64h-64zM640 192h-64v64h-64v64h-64v64h-64v64h-64v64h-64v64h64h64v-64h64v-64h64v-64h64v-64h64v-64h64v-64h-64z" />
+    <glyph glyph-name="uniFF01" unicode="&#xff01;" 
+d="M192 64h64v-64h-64h-64v64h64zM192 192h-64v64v64h-64v64v64v64v64v64h64v64h64h64v-64h64v-64v-64v-64v-64v-64h-64v-64v-64h-64z" />
+    <glyph glyph-name="uniFF03" unicode="&#xff03;" 
+d="M576 0h-64v64v64h-64h-64v-64v-64h-64h-64v64v64h-64h-64v64h64h64v64v64v64v64v64h-64h-64v64h64h64v64v64h64h64v-64v-64h64h64v64v64h64h64v-64v-64h64h64v-64h-64h-64v-64v-64v-64v-64v-64h64h64v-64h-64h-64v-64v-64h-64zM448 192h64v64v64v64v64v64h-64h-64v-64
+v-64v-64v-64v-64h64z" />
+    <glyph glyph-name="uniFF05" unicode="&#xff05;" 
+d="M640 0h-64h-64v64h-64v64v64h64v64h64h64h64v-64h64v-64v-64h-64v-64h-64zM128 0h-64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64v64h64h64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64v-64h-64zM640 64v64v64h-64v-64v-64
+h64zM256 384h-64h-64v64h-64v64v64h64v64h64h64h64v-64h64v-64v-64h-64v-64h-64zM256 448v64v64h-64v-64v-64h64z" />
+    <glyph glyph-name="uniFF06" unicode="&#xff06;" 
+d="M448 64h64v-64h-64h-64v64h64zM512 128h-64h-64h-64v64h-64v64v64h64v64h-64v64v64h64v64h64h64h64h64v-64h64v-64h-64h-64v64h-64h-64v-64v-64h64v-64h-64v-64v-64h64h64v64h64h64v-64h-64v-64h-64zM448 704h64v-64h-64h-64v64h64z" />
+    <glyph glyph-name="uniFF08" unicode="&#xff08;" 
+d="M768 64h64v-64h-64h-64h-64v64h-64v64h-64v64v64v64v64v64v64v64h64v64h64v64h64h64h64v-64h-64h-64v-64h-64v-64v-64v-64v-64v-64v-64v-64h64v-64h64z" />
+    <glyph glyph-name="uniFF09" unicode="&#xff09;" 
+d="M192 0h-64h-64v64h64h64v64h64v64v64v64v64v64v64v64h-64v64h-64h-64v64h64h64h64v-64h64v-64h64v-64v-64v-64v-64v-64v-64v-64h-64v-64h-64v-64h-64z" />
+    <glyph glyph-name="uniFF1A" unicode="&#xff1a;" 
+d="M128 64h64v-64h-64h-64v64h64zM128 192h-64v64v64h64h64v-64v-64h-64z" />
+    <glyph glyph-name="uniFF1F" unicode="&#xff1f;" 
+d="M256 64h64v-64h-64h-64v64h64zM256 192h-64v64v64h64v64h64v64h64v64v64h-64v64h-64v-64h-64v-64h-64h-64v64h64v64h64v64h64h64h64v-64h64v-64h64v-64v-64h-64v-64h-64v-64h-64v-64v-64h-64z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="340" 
+ />
+    <hkern u1="P" u2="&#x15f;" k="192" />
+    <hkern u1="P" u2="&#x131;" k="192" />
+    <hkern u1="P" u2="&#x11f;" k="128" />
+    <hkern u1="P" u2="&#xff;" k="128" />
+    <hkern u1="P" u2="&#xfd;" k="128" />
+    <hkern u1="P" u2="&#xfc;" k="128" />
+    <hkern u1="P" u2="&#xfb;" k="128" />
+    <hkern u1="P" u2="&#xfa;" k="128" />
+    <hkern u1="P" u2="&#xf9;" k="128" />
+    <hkern u1="P" u2="&#xf8;" k="192" />
+    <hkern u1="P" u2="&#xf6;" k="128" />
+    <hkern u1="P" u2="&#xf5;" k="128" />
+    <hkern u1="P" u2="&#xf4;" k="128" />
+    <hkern u1="P" u2="&#xf3;" k="128" />
+    <hkern u1="P" u2="&#xf2;" k="128" />
+    <hkern u1="P" u2="&#xf1;" k="128" />
+    <hkern u1="P" u2="&#xef;" k="128" />
+    <hkern u1="P" u2="&#xee;" k="128" />
+    <hkern u1="P" u2="&#xed;" k="128" />
+    <hkern u1="P" u2="&#xec;" k="128" />
+    <hkern u1="P" u2="&#xeb;" k="128" />
+    <hkern u1="P" u2="&#xea;" k="128" />
+    <hkern u1="P" u2="&#xe9;" k="128" />
+    <hkern u1="P" u2="&#xe8;" k="128" />
+    <hkern u1="P" u2="&#xe7;" k="192" />
+    <hkern u1="P" u2="&#xe6;" k="192" />
+    <hkern u1="P" u2="&#xe5;" k="128" />
+    <hkern u1="P" u2="&#xe4;" k="128" />
+    <hkern u1="P" u2="&#xe3;" k="128" />
+    <hkern u1="P" u2="&#xe2;" k="128" />
+    <hkern u1="P" u2="&#xe1;" k="128" />
+    <hkern u1="P" u2="&#xe0;" k="128" />
+    <hkern u1="P" u2="z" k="192" />
+    <hkern u1="P" u2="y" k="192" />
+    <hkern u1="P" u2="x" k="192" />
+    <hkern u1="P" u2="w" k="192" />
+    <hkern u1="P" u2="v" k="192" />
+    <hkern u1="P" u2="u" k="192" />
+    <hkern u1="P" u2="s" k="192" />
+    <hkern u1="P" u2="r" k="192" />
+    <hkern u1="P" u2="q" k="192" />
+    <hkern u1="P" u2="p" k="192" />
+    <hkern u1="P" u2="o" k="192" />
+    <hkern u1="P" u2="n" k="192" />
+    <hkern u1="P" u2="m" k="192" />
+    <hkern u1="P" u2="i" k="192" />
+    <hkern u1="P" u2="g" k="192" />
+    <hkern u1="P" u2="e" k="192" />
+    <hkern u1="P" u2="c" k="192" />
+    <hkern u1="P" u2="a" k="192" />
+    <hkern u1="T" u2="&#x15f;" k="128" />
+    <hkern u1="T" u2="&#x131;" k="128" />
+    <hkern u1="T" u2="&#x11f;" k="128" />
+    <hkern u1="T" u2="&#xff;" k="128" />
+    <hkern u1="T" u2="&#xfd;" k="128" />
+    <hkern u1="T" u2="&#xfc;" k="128" />
+    <hkern u1="T" u2="&#xfb;" k="128" />
+    <hkern u1="T" u2="&#xfa;" k="128" />
+    <hkern u1="T" u2="&#xf9;" k="128" />
+    <hkern u1="T" u2="&#xf8;" k="128" />
+    <hkern u1="T" u2="&#xf6;" k="128" />
+    <hkern u1="T" u2="&#xf5;" k="128" />
+    <hkern u1="T" u2="&#xf4;" k="128" />
+    <hkern u1="T" u2="&#xf3;" k="128" />
+    <hkern u1="T" u2="&#xf2;" k="128" />
+    <hkern u1="T" u2="&#xf1;" k="128" />
+    <hkern u1="T" u2="&#xf0;" k="128" />
+    <hkern u1="T" u2="&#xef;" k="128" />
+    <hkern u1="T" u2="&#xee;" k="128" />
+    <hkern u1="T" u2="&#xed;" k="128" />
+    <hkern u1="T" u2="&#xec;" k="128" />
+    <hkern u1="T" u2="&#xeb;" k="128" />
+    <hkern u1="T" u2="&#xea;" k="128" />
+    <hkern u1="T" u2="&#xe9;" k="128" />
+    <hkern u1="T" u2="&#xe8;" k="128" />
+    <hkern u1="T" u2="&#xe7;" k="128" />
+    <hkern u1="T" u2="&#xe6;" k="128" />
+    <hkern u1="T" u2="&#xe5;" k="128" />
+    <hkern u1="T" u2="&#xe4;" k="128" />
+    <hkern u1="T" u2="&#xe3;" k="128" />
+    <hkern u1="T" u2="&#xe2;" k="128" />
+    <hkern u1="T" u2="&#xe1;" k="128" />
+    <hkern u1="T" u2="&#xe0;" k="128" />
+    <hkern u1="T" u2="&#xde;" k="128" />
+    <hkern u1="T" u2="z" k="128" />
+    <hkern u1="T" u2="y" k="128" />
+    <hkern u1="T" u2="x" k="128" />
+    <hkern u1="T" u2="w" k="128" />
+    <hkern u1="T" u2="v" k="128" />
+    <hkern u1="T" u2="u" k="128" />
+    <hkern u1="T" u2="t" k="128" />
+    <hkern u1="T" u2="s" k="128" />
+    <hkern u1="T" u2="r" k="128" />
+    <hkern u1="T" u2="q" k="128" />
+    <hkern u1="T" u2="p" k="128" />
+    <hkern u1="T" u2="o" k="128" />
+    <hkern u1="T" u2="n" k="128" />
+    <hkern u1="T" u2="m" k="128" />
+    <hkern u1="T" u2="l" k="128" />
+    <hkern u1="T" u2="k" k="128" />
+    <hkern u1="T" u2="j" k="128" />
+    <hkern u1="T" u2="i" k="128" />
+    <hkern u1="T" u2="h" k="128" />
+    <hkern u1="T" u2="g" k="128" />
+    <hkern u1="T" u2="f" k="128" />
+    <hkern u1="T" u2="e" k="128" />
+    <hkern u1="T" u2="d" k="128" />
+    <hkern u1="T" u2="c" k="128" />
+    <hkern u1="T" u2="b" k="128" />
+    <hkern u1="T" u2="a" k="128" />
+    <hkern u1="T" u2="&#x3f;" k="128" />
+    <hkern u1="T" u2="&#x39;" k="128" />
+    <hkern u1="T" u2="&#x38;" k="128" />
+    <hkern u1="T" u2="&#x37;" k="128" />
+    <hkern u1="T" u2="&#x36;" k="128" />
+    <hkern u1="T" u2="&#x35;" k="128" />
+    <hkern u1="T" u2="&#x34;" k="128" />
+    <hkern u1="T" u2="&#x33;" k="128" />
+    <hkern u1="T" u2="&#x32;" k="128" />
+    <hkern u1="T" u2="&#x31;" k="128" />
+    <hkern u1="T" u2="&#x30;" k="128" />
+    <hkern u1="&#x413;" u2="&#x44f;" k="128" />
+    <hkern u1="&#x413;" u2="&#x44e;" k="128" />
+    <hkern u1="&#x413;" u2="&#x44d;" k="128" />
+    <hkern u1="&#x413;" u2="&#x44c;" k="128" />
+    <hkern u1="&#x413;" u2="&#x44b;" k="128" />
+    <hkern u1="&#x413;" u2="&#x44a;" k="128" />
+    <hkern u1="&#x413;" u2="&#x449;" k="128" />
+    <hkern u1="&#x413;" u2="&#x448;" k="128" />
+    <hkern u1="&#x413;" u2="&#x447;" k="128" />
+    <hkern u1="&#x413;" u2="&#x446;" k="128" />
+    <hkern u1="&#x413;" u2="&#x445;" k="128" />
+    <hkern u1="&#x413;" u2="&#x444;" k="128" />
+    <hkern u1="&#x413;" u2="&#x443;" k="128" />
+    <hkern u1="&#x413;" u2="&#x442;" k="128" />
+    <hkern u1="&#x413;" u2="&#x441;" k="128" />
+    <hkern u1="&#x413;" u2="&#x440;" k="128" />
+    <hkern u1="&#x413;" u2="&#x43f;" k="128" />
+    <hkern u1="&#x413;" u2="&#x43e;" k="128" />
+    <hkern u1="&#x413;" u2="&#x43d;" k="128" />
+    <hkern u1="&#x413;" u2="&#x43c;" k="128" />
+    <hkern u1="&#x413;" u2="&#x43b;" k="128" />
+    <hkern u1="&#x413;" u2="&#x43a;" k="128" />
+    <hkern u1="&#x413;" u2="&#x439;" k="128" />
+    <hkern u1="&#x413;" u2="&#x438;" k="128" />
+    <hkern u1="&#x413;" u2="&#x437;" k="128" />
+    <hkern u1="&#x413;" u2="&#x436;" k="128" />
+    <hkern u1="&#x413;" u2="&#x435;" k="128" />
+    <hkern u1="&#x413;" u2="&#x434;" k="128" />
+    <hkern u1="&#x413;" u2="&#x433;" k="128" />
+    <hkern u1="&#x413;" u2="&#x432;" k="128" />
+    <hkern u1="&#x413;" u2="&#x431;" k="128" />
+    <hkern u1="&#x413;" u2="&#x430;" k="128" />
+    <hkern u1="&#x413;" u2="&#x3f;" k="128" />
+    <hkern u1="&#x413;" u2="&#x39;" k="128" />
+    <hkern u1="&#x413;" u2="&#x38;" k="128" />
+    <hkern u1="&#x413;" u2="&#x37;" k="128" />
+    <hkern u1="&#x413;" u2="&#x36;" k="128" />
+    <hkern u1="&#x413;" u2="&#x35;" k="128" />
+    <hkern u1="&#x413;" u2="&#x34;" k="128" />
+    <hkern u1="&#x413;" u2="&#x33;" k="128" />
+    <hkern u1="&#x413;" u2="&#x32;" k="128" />
+    <hkern u1="&#x413;" u2="&#x31;" k="128" />
+    <hkern u1="&#x413;" u2="&#x30;" k="128" />
+    <hkern u1="&#x420;" u2="&#x44f;" k="192" />
+    <hkern u1="&#x420;" u2="&#x44e;" k="192" />
+    <hkern u1="&#x420;" u2="&#x44d;" k="192" />
+    <hkern u1="&#x420;" u2="&#x44c;" k="192" />
+    <hkern u1="&#x420;" u2="&#x44b;" k="192" />
+    <hkern u1="&#x420;" u2="&#x44a;" k="192" />
+    <hkern u1="&#x420;" u2="&#x449;" k="192" />
+    <hkern u1="&#x420;" u2="&#x448;" k="192" />
+    <hkern u1="&#x420;" u2="&#x447;" k="192" />
+    <hkern u1="&#x420;" u2="&#x446;" k="192" />
+    <hkern u1="&#x420;" u2="&#x445;" k="192" />
+    <hkern u1="&#x420;" u2="&#x444;" k="192" />
+    <hkern u1="&#x420;" u2="&#x443;" k="192" />
+    <hkern u1="&#x420;" u2="&#x442;" k="192" />
+    <hkern u1="&#x420;" u2="&#x441;" k="192" />
+    <hkern u1="&#x420;" u2="&#x440;" k="192" />
+    <hkern u1="&#x420;" u2="&#x43f;" k="192" />
+    <hkern u1="&#x420;" u2="&#x43e;" k="192" />
+    <hkern u1="&#x420;" u2="&#x43d;" k="192" />
+    <hkern u1="&#x420;" u2="&#x43c;" k="192" />
+    <hkern u1="&#x420;" u2="&#x43b;" k="192" />
+    <hkern u1="&#x420;" u2="&#x43a;" k="192" />
+    <hkern u1="&#x420;" u2="&#x439;" k="128" />
+    <hkern u1="&#x420;" u2="&#x438;" k="192" />
+    <hkern u1="&#x420;" u2="&#x437;" k="192" />
+    <hkern u1="&#x420;" u2="&#x436;" k="192" />
+    <hkern u1="&#x420;" u2="&#x435;" k="192" />
+    <hkern u1="&#x420;" u2="&#x434;" k="192" />
+    <hkern u1="&#x420;" u2="&#x433;" k="192" />
+    <hkern u1="&#x420;" u2="&#x432;" k="192" />
+    <hkern u1="&#x420;" u2="&#x430;" k="192" />
+    <hkern u1="&#x422;" u2="&#x44f;" k="128" />
+    <hkern u1="&#x422;" u2="&#x44e;" k="128" />
+    <hkern u1="&#x422;" u2="&#x44d;" k="128" />
+    <hkern u1="&#x422;" u2="&#x44c;" k="128" />
+    <hkern u1="&#x422;" u2="&#x44b;" k="128" />
+    <hkern u1="&#x422;" u2="&#x44a;" k="128" />
+    <hkern u1="&#x422;" u2="&#x449;" k="128" />
+    <hkern u1="&#x422;" u2="&#x448;" k="128" />
+    <hkern u1="&#x422;" u2="&#x447;" k="128" />
+    <hkern u1="&#x422;" u2="&#x446;" k="128" />
+    <hkern u1="&#x422;" u2="&#x445;" k="128" />
+    <hkern u1="&#x422;" u2="&#x444;" k="128" />
+    <hkern u1="&#x422;" u2="&#x443;" k="128" />
+    <hkern u1="&#x422;" u2="&#x442;" k="128" />
+    <hkern u1="&#x422;" u2="&#x441;" k="128" />
+    <hkern u1="&#x422;" u2="&#x440;" k="128" />
+    <hkern u1="&#x422;" u2="&#x43f;" k="128" />
+    <hkern u1="&#x422;" u2="&#x43e;" k="128" />
+    <hkern u1="&#x422;" u2="&#x43d;" k="128" />
+    <hkern u1="&#x422;" u2="&#x43c;" k="128" />
+    <hkern u1="&#x422;" u2="&#x43b;" k="128" />
+    <hkern u1="&#x422;" u2="&#x43a;" k="128" />
+    <hkern u1="&#x422;" u2="&#x439;" k="128" />
+    <hkern u1="&#x422;" u2="&#x438;" k="128" />
+    <hkern u1="&#x422;" u2="&#x437;" k="128" />
+    <hkern u1="&#x422;" u2="&#x436;" k="128" />
+    <hkern u1="&#x422;" u2="&#x435;" k="128" />
+    <hkern u1="&#x422;" u2="&#x434;" k="128" />
+    <hkern u1="&#x422;" u2="&#x433;" k="128" />
+    <hkern u1="&#x422;" u2="&#x432;" k="128" />
+    <hkern u1="&#x422;" u2="&#x431;" k="128" />
+    <hkern u1="&#x422;" u2="&#x430;" k="128" />
+    <hkern u1="&#x422;" u2="&#x3f;" k="128" />
+    <hkern u1="&#x422;" u2="&#x39;" k="128" />
+    <hkern u1="&#x422;" u2="&#x38;" k="128" />
+    <hkern u1="&#x422;" u2="&#x37;" k="128" />
+    <hkern u1="&#x422;" u2="&#x36;" k="128" />
+    <hkern u1="&#x422;" u2="&#x35;" k="128" />
+    <hkern u1="&#x422;" u2="&#x34;" k="128" />
+    <hkern u1="&#x422;" u2="&#x33;" k="128" />
+    <hkern u1="&#x422;" u2="&#x32;" k="128" />
+    <hkern u1="&#x422;" u2="&#x31;" k="128" />
+    <hkern u1="&#x422;" u2="&#x30;" k="128" />
+  </font>
+</defs></svg>
